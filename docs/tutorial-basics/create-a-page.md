@@ -46,6 +46,6 @@ You can use a professionally designed template to get started:
 
 For a complete sample resume, you can check out the following link:
 
-[View the Resume on Google Drive](https://drive.google.com/drive/folders/1KWqU9VZ6EdqmmiKowXPF3a1i2sISVrDr?usp=sharing)
+[View the Resume on Google Drive](https://drive.google.com/file/d/1Sd4Yv79r7EVALPYzyvX-tEWpjsGAyxxa/view?usp=sharing)
 
 Use this approach to present your skills and experience in the best light!

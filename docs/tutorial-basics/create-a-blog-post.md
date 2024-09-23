@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Importance of a Strong GPA and Computer Science Fundamentals
+# Strong GPA & CS Fundamentals
 
 ### 1. Aim for a Good GPA
 
