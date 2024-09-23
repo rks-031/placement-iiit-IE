@@ -9,8 +9,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Interview Experiences ft. IIIT Bhubaneswar",
-  tagline: "Be prepared for your next interview!!",
-  favicon: "img/favicon.ico",
+  tagline: "Get prepared for your next interview!!",
+  favicon: "img/iiit 128x128.svg",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -64,14 +64,14 @@ const config = {
         title: "Interviews @ IIIT-BH",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/iiit 128x128.svg",
         },
         items: [
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Get Started",
+            label: "Get prepared",
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: "Placement Brochure",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://drive.google.com/file/d/1YiPmpcUr667m8cdnSxsClBUR57iLgUv7/view?usp=sharing",
               },
             ],
           },

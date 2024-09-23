@@ -3,46 +3,18 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+## Welcome to the Interview Portal ft. IIIT-Bh
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This portal is designed to provide valuable insights into the **interview experiences** of students placed in various companies.
 
-## Getting Started
+### Get Started
 
-Get started by **creating a new site**.
+Prepare yourself for your **next on-campus interview** by learning from the real-life experiences of others who have successfully navigated the process. Discover helpful tips, strategies, and stories to boost your confidence and land that **dream opportunity**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### What You'll Find
 
-### What you'll need
+- Detailed interview experiences categorized by companies.
+- Commonly asked technical and HR questions.
+- Tips and advice from students who have been through the process.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Stay updated, stay prepared, and make the most of your placement journey!
