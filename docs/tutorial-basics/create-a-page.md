@@ -2,42 +2,50 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Building an Efficient Resume
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Creating a strong resume is essential for standing out during job applications. Below are key strategies to help you build an **effective and ATS-friendly resume**:
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+### 1. Tailor Your Resume to Each Job
 
-## Create your first React Page
+- Customize your resume for the specific role you're applying for.
+- Use relevant keywords from the job description to pass through Applicant Tracking Systems (ATS).
 
-Create a file at `src/pages/my-react-page.js`:
+### 2. Prioritize Key Sections
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+Ensure that your resume has the following sections:
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+- **Contact Information**: Provide your full name, phone number, email, LinkedIn profile, and GitHub link (if relevant).
+- **Education**: Highlight your degrees and certifications, along with key academic achievements.
+- **Experience**: List your roles, responsibilities, and accomplishments in reverse chronological order.
+- **Skills**: Mention technical and soft skills relevant to the position.
+- **Projects**: Showcase personal projects or contributions to open-source, providing context and impact.
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+### 3. Focus on Achievements Over Responsibilities
 
-## Create your first Markdown Page
+- Quantify your impact: Use numbers to describe your contributions (e.g., "Increased website traffic by 30%").
+- Avoid generic statements and focus on accomplishments.
 
-Create a file at `src/pages/my-markdown-page.md`:
+### 4. Keep It Concise and Structured
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+- Limit your resume to **one page** if possible.
+- Use bullet points and consistent formatting to ensure clarity.
 
-This is a Markdown page
-```
+### 5. Design for Readability
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+- Use **clean and simple fonts**.
+- Ensure there’s enough white space to avoid clutter.
+
+### Resume Template
+
+You can use a professionally designed template to get started:
+
+[Download the ATS friendly Overleaf Resume Template](https://github.com/jakegut/resume/blob/master/resume.tex)
+
+### Sample Resume
+
+For a complete sample resume, you can check out the following link:
+
+[View the Resume on Google Drive](https://drive.google.com/drive/folders/1KWqU9VZ6EdqmmiKowXPF3a1i2sISVrDr?usp=sharing)
+
+Use this approach to present your skills and experience in the best light!

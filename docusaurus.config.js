@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Interview Experiences ft. IIIT Bhubaneswar",
-  tagline: "Get prepared for your next interview!!",
+  tagline: "Get prepared for your next on-campus interview!!",
   favicon: "img/iiit 128x128.svg",
 
   // Set the production url of your site here
@@ -44,8 +44,6 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/rks-031/placement-iiit-IE.git/tree/main/",
         },
         blog: false,
         theme: {

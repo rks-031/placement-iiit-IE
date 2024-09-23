@@ -6,6 +6,8 @@ slug: /
 ## Welcome to the Interview Portal ft. IIIT-Bh
 
 This portal is designed to provide valuable insights into the **interview experiences** of students placed in various companies.
+<br/>
+In addition to that, what all things you must be aware of before your placement season starts, you'll get to know here!!
 
 ### Get Started
 
@@ -18,3 +20,5 @@ Prepare yourself for your **next on-campus interview** by learning from the real
 - Tips and advice from students who have been through the process.
 
 Stay updated, stay prepared, and make the most of your placement journey!
+<br/>
+Give your very best!!
