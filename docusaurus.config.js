@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "IIIT Bhubaneswar", // Usually your GitHub org/user name.
+  projectName: "Interview_Experiences", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/rks-031/placement-iiit-IE.git/tree/main/",
         },
         blog: false,
         theme: {
@@ -63,17 +63,10 @@ const config = {
       navbar: {
         title: "Interviews @ IIIT-BH",
         logo: {
-          alt: "My Site Logo",
+          alt: "Logo",
           src: "img/iiit 128x128.svg",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Get prepared",
-          },
-          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://iiit-placement-website-v2.vercel.app/placements",
             label: "Placement Stats",
