@@ -29,7 +29,7 @@
 
 1. System design (basic workflow) of a project
 2. SQL query having an operation consisting of: joins, group by, having, limit, order by clause (2 and three table operation)
-3. Solve it any way you like question (Was given a question involving a big database containing 80-90 records and three questions using that table). Solve it using unordered_map.
+3. Solve it any way you like question (Was given a question involving a big database containing 80-90 records and three questions using that table). Solved it using unordered_map.
 4. LRU cache (typical leetcode problem)[ Doubly linked list]
 5. Some work environment related conversation; contribution of open source to your overall technical expertise.
 6. Security related questions based on the project.
