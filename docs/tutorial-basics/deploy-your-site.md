@@ -10,6 +10,7 @@ sidebar_position: 5
 
   - Practice articulating your thoughts clearly and confidently.
   - Work on public speaking or presentations to improve your delivery.
+  - Workout on solving situation based questions to get an edge/upperhand in the managerial rounds.
 
 - **Written Communication**:
   - Learn to draft professional emails and documents.
@@ -26,13 +27,7 @@ sidebar_position: 5
 - Approach problems methodically: Define the problem, brainstorm solutions, and evaluate outcomes.
 - Engage in activities like puzzles, brainteasers, or project-based learning to enhance these skills.
 
-### 4. Time Management and Organization
-
-- Prioritize tasks based on urgency and importance.
-- Use tools like Trello, Asana, or Google Calendar to organize your schedule.
-- Practice techniques like Pomodoro to maintain focus and productivity.
-
-### 5. Adaptability and Flexibility
+### 4. Adaptability and Flexibility
 
 - Be open to learning new skills and adapting to changing environments.
 - Engage in cross-functional projects to gain diverse experiences.
