@@ -1,7 +1,8 @@
 # Oracle Interview Experience
 
 **Position**: Software Developer Role (Fresher)  
-**Unit**: CGIU
+**Unit**: CGIU<br/>
+**Article by**: Jyotideep Acharjee
 
 ## Interview Process
 
