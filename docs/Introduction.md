@@ -5,7 +5,7 @@ slug: /
 
 ## Welcome to the Interview Portal ft. IIIT-Bh
 
-This portal is designed to provide valuable insights into the **interview experiences** of students placed in various companies.
+This portal is designed to provide valuable insights into the **interview experiences** of students placed in various companies in IIIT Bhubaneswar.
 <br/>
 In addition to that, what all things you must be aware of before your placement season starts, you'll get to know here!!
 
