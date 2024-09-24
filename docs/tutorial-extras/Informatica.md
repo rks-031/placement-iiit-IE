@@ -48,7 +48,7 @@
 
    - Implementing a stack using a linked list.
 
-3. **Greedy Algorithm**:
+3. **DP Algorithm**:
 
    - Minimum coins required to make a target value.
 
