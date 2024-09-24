@@ -1,7 +1,7 @@
 # Informatica Interview Experience
 
 **CTC**: 19.65 LPA <br/>
-**Roles**: Full Stack Developer & Product Specialization <br/>
+**Roles**: Full Stack Developer | Product Specialization | Automation Engineer<br/>
 **Article by**: Riddhi Agrawal
 
 ## Interview Process
