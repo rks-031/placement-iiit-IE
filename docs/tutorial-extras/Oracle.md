@@ -1,5 +1,6 @@
 # Oracle Interview Experience
 
+**CTC**: 22.4 LPA
 **Position**: Software Developer Role (Fresher)  
 **Unit**: CGIU<br/>
 **Article by**: Jyotideep Acharjee
