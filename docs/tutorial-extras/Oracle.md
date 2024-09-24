@@ -10,7 +10,9 @@
 ### Round 1: Technical Round
 
 1. **High-Level Design**:
+
    - Discussed the high-level design of the product worked on during the past internship.
+
 2. **Authentication**:
 
    - Concepts of JWT and OAuth, including the scope in OAuth and JWT token signing and authentication.
