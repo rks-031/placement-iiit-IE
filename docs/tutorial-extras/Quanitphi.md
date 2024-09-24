@@ -46,7 +46,7 @@
 
 `Business Analyst`
 
-## 3.1
+(3.1)
 
 1. Introduce yourself
 2. Resume based questions - Internship based
@@ -54,7 +54,7 @@
 4. Guesstimates.
 5. Course project- explain.
 
-## 3.2
+(3.2)
 
 1. Introduce yourself.
 2. Internship based questions- What business solutions did your startup provide?
