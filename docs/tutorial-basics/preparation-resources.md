@@ -3,7 +3,7 @@
 1. Operating Systems
 
 ```shell
-
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:347e00c8-c425-45cd-b44e-cab7615d1e97
 ```
 
 2. OOPs

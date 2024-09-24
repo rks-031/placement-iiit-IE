@@ -56,9 +56,9 @@
 ## 3.2
 
 1. Introduce yourself.
-2. Internship based questions- What business solutions did your startup provide.
+2. Internship based questions- What business solutions did your startup provide?
 3. Puzzle.
-4. How would you compete with CSE students in a tech based company.
+4. How would you compete with CSE students in a tech based company?
 5. Any questions for us? - Ask something from the PPT(Pre Placement Talk)/ give inputs for the company.
 
 ### Round 4: HR Interview
