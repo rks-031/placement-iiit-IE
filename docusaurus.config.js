@@ -120,7 +120,7 @@ const config = {
       colorMode: {
         defaultMode: "dark", // Set dark mode by default
         disableSwitch: false, // Allow users to switch between light and dark mode
-        respectPrefersColorScheme: false, // Force dark mode regardless of system preferences
+        respectPrefersColorScheme: true, // Force dark mode regardless of system preferences
       },
     }),
 };
