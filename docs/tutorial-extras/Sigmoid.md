@@ -1,6 +1,5 @@
 # Sigmoid Analytics Interview Experience
 
-**CTC**: 8 LPA (7.2 fixed)  
 **Roles**: Data Science Intern + Trainee / Data Engineering Intern + Trainee<br/>
 **Article by**: Rituparna Senapati
 

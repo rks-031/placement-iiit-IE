@@ -1,6 +1,5 @@
 # BigBinary Interview Experience
 
-**CTC**: 10 LPA <br/>
 **Location**: Remote <br/>
 **Role**: Full-Stack Developer <br/>
 **Article by**: Vedansh Agrawal

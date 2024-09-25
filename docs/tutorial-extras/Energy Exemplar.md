@@ -1,6 +1,5 @@
 # Energy Exemplar Interview Experience
 
-**CTC**: 11 LPA<br/>
 **Role**: Associate Software Engineer<br/>
 **Article by**: Shrey Sahay
 

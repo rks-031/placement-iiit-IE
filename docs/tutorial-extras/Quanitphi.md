@@ -1,6 +1,5 @@
 # Quantiphi Interview Experience
 
-**CTC**: 8.5 LPA <br/>
 **Roles**: Framework Engineer and Business Analyst<br/>
 **Article by**: Rajnish Kumar Singh | Priyansha Pathak
 
