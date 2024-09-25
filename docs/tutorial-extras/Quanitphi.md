@@ -9,7 +9,7 @@
 ### Round 1: Online Test
 
 - **Format**: Multiple-choice questions (76) and DSA problems (3)
-- **Topics**: Aptitude, Verbal, Quantitaive and Logical reasoning, Code completion, HTML basics, Databases, and 3 coding problems, 2 easy and one hard.
+- **Topics**: Aptitude, Verbal, Quantitative and Logical reasoning, Code completion, HTML basics, Databases, and 3 coding problems, 2 easy and one hard.
 - **Duration**: 90 minutes.
 
 ### Round 2: Online Interview on Unstop [40 mins]
