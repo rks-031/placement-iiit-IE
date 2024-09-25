@@ -30,4 +30,10 @@ https://acrobat.adobe.com/id/urn:aaid:sc:AP:194146e0-dd18-4efe-80bb-a187f59088ae
 https://acrobat.adobe.com/id/urn:aaid:sc:AP:0f278632-3d2a-453f-8f02-2ab7e8bcc8e4
 ```
 
+6. Data Structures and Algorithms
+
+```shell
+https://drive.google.com/file/d/16j_k4yFzv0zYhz-zSzz1uVEblOpNpoxO/view?usp=sharing
+```
+
 _Note: Study from other resources also for the topics which are not present in the above notes._
