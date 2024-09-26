@@ -14,7 +14,6 @@
 ### Round 2: Online Interview on Unstop [40 mins]
 
 `Framework Engineer`
-s
 
 1. Basic introduction (tell me about your self)
 2. Semaphores and their working
@@ -60,7 +59,7 @@ s
 2. Internship based questions- What business solutions did your startup provide?
 3. Puzzle.
 4. How would you compete with CSE students in a tech based company?
-5. Any questions for us? - Ask something from the PPT(Pre Placement Talk)/ give inputs for the company.
+5. Any questions for us? - Ask something from the PPT (Pre Placement Talk)/ give inputs for the company.
 
 ### Round 4: HR Interview
 
@@ -73,7 +72,7 @@ s
   <li> What would you do if you did a blunder mistake at the workplace? </li>
   <li> How would you manage a situation, if your team members won't agree to you? </li>
   <li> How can you use your hobby in some or the other way to make work environment at Quantipih grow? </li>
-  <li> One good/bad thig about Quantiphi.</li>
+  <li> One good and bad thig about Quantiphi.</li>
   <li> What's your biggest motivation? </li>
 </ul>
 
