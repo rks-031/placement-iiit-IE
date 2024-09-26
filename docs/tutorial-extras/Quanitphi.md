@@ -18,7 +18,7 @@
 1. Basic introduction (tell me about your self)
 2. Semaphores and their working
 3. SQL queries on basic scalar functions
-4. DSA problem on k rotations in a single linked list
+4. DSA problem on k rotations in a singly linked list
 5. Project briefing
 
 `Business Analyst`
@@ -27,7 +27,7 @@
 
 1. 2 topics were given for Group Discussion:<br/>
    1] (Abstract topic)- India Vs China(will India ever overtake Chinese economy) <br/>
-   2] (Business Topic) -Is India ready to become a Digital Ecomony
+   2] (Business Topic) -Is India ready to become a Digital Ecomony?
 2. 15 mins were given for each topic with 2 minutes in the beginning to gather your thoughts
 3. Each participant is given a chance to speak in order of raised hands on gmeet/ on volunteer basis
 4. HR along with a Senior Business Analyst were present in this round
@@ -59,7 +59,7 @@
 2. Internship based questions- What business solutions did your startup provide?
 3. Puzzle.
 4. How would you compete with CSE students in a tech based company?
-5. Any questions for us? - Ask something from the PPT(Pre Placement Talk)/ give inputs for the company.
+5. Any questions for us? - Ask something from the PPT (Pre Placement Talk)/ give inputs for the company.
 
 ### Round 4: HR Interview
 
@@ -72,7 +72,7 @@
   <li> What would you do if you did a blunder mistake at the workplace? </li>
   <li> How would you manage a situation, if your team members won't agree to you? </li>
   <li> How can you use your hobby in some or the other way to make work environment at Quantipih grow? </li>
-  <li> One good/bad thig about Quantiphi.</li>
+  <li> One good and bad thig about Quantiphi.</li>
   <li> What's your biggest motivation? </li>
 </ul>
 
