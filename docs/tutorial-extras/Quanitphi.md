@@ -18,7 +18,7 @@
 1. Basic introduction (tell me about your self)
 2. Semaphores and their working
 3. SQL queries on basic scalar functions
-4. DSA problem on k rotations in a single linked list
+4. DSA problem on k rotations in a singly linked list
 5. Project briefing
 
 `Business Analyst`
@@ -27,7 +27,7 @@
 
 1. 2 topics were given for Group Discussion:<br/>
    1] (Abstract topic)- India Vs China(will India ever overtake Chinese economy) <br/>
-   2] (Business Topic) -Is India ready to become a Digital Ecomony
+   2] (Business Topic) -Is India ready to become a Digital Ecomony?
 2. 15 mins were given for each topic with 2 minutes in the beginning to gather your thoughts
 3. Each participant is given a chance to speak in order of raised hands on gmeet/ on volunteer basis
 4. HR along with a Senior Business Analyst were present in this round
