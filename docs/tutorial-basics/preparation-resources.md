@@ -9,9 +9,10 @@
 
    &nbsp;[Handwritten Notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ea5cad3d-df02-4b8a-b79e-5bfcdfefc741)
 
-3. SQL Queries
+3. DBMS
 
-   &nbsp;[Just practice these, you'll be sorted!](https://docs.google.com/presentation/d/1IqV_h8SdailZMyvuzlzzCuoplXQ6fp64KMjFxORAZx0/edit#slide=id.g16af3914e8c_0_832)
+   &nbsp;[Major Concepts](https://drive.google.com/file/d/19epFelg5OjkTJcp-RhGLwJukCRZ--VnN/view?usp=sharing) <br/>
+   &nbsp;[Architecture and 4 & 5 NF](https://acrobat.adobe.com/id/urn:aaid:sc:AP:108e91da-a5d9-442f-8807-b60ecf17871a)
 
 4. Normalization
 
@@ -21,11 +22,15 @@
 
    &nbsp;[Handwritten Notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:0f278632-3d2a-453f-8f02-2ab7e8bcc8e4)
 
-6. Data Structures and Algorithms
+6. SQL Queries
+
+   &nbsp;[Just practice these, you'll be sorted!](https://docs.google.com/presentation/d/1IqV_h8SdailZMyvuzlzzCuoplXQ6fp64KMjFxORAZx0/edit#slide=id.g16af3914e8c_0_832)
+
+7. Data Structures and Algorithms
 
    &nbsp;[Revision Guide](https://drive.google.com/file/d/16j_k4yFzv0zYhz-zSzz1uVEblOpNpoxO/view?usp=sharing) (A must before your interview!)
 
-7. System Design
+8. System Design
 
    &nbsp;[System Design Book](https://drive.google.com/file/d/1Dp_WbnybBPILOu58nirwjTa1cOvromyh/view?usp=sharing) (Just have a basic idea, do not try to deep dive!)
 
