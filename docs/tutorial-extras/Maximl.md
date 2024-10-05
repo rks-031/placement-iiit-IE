@@ -20,7 +20,6 @@
 2. **DSA**:
    - **Problem 1**: Check if a string with `{}`, `()`, and `[]` is balanced.
      
-
    - **Problem 2**: Sorting Algorithms
      - Listed various sorting algorithms (Bubble Sort, Selection Sort, etc.).
      - Discussed the best sorting algorithm and its use cases.
@@ -28,9 +27,8 @@
 
    - **Merge Sort**: Implemented and discussed time and space complexity.
      
-
    - **Count Number of Inversions**: 
-    - Given an array, count the number of inversions, two elements form an inversion if a[i] > a[j] for i < j.
+    |- Given an array, count the number of inversions, two elements form an inversion if a[i] > a[j] for i < j.
 
 3. **Backend Development**:
    - Discussed APIs, indexing in databases & why is it necessary, SQL vs NoSQL, HTTP methods (PUT vs Patch), and MongoDB Aggregation.
