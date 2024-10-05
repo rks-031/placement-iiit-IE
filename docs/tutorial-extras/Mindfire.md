@@ -1,7 +1,7 @@
 # Mindfire Interview Experience
 
 **Roles**: Associate Software Engineer<br/>
-**Article by**: 
+**Article by**: Kaniskaa Behera
 
 ## Interview Process
 
