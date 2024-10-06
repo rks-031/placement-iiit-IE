@@ -1,148 +1,84 @@
 # Mindfire Interview Experience
 
 **Roles**: Associate Software Engineer<br/>
-**Article by**: 
+**Article by**: Kaniskaa Behera
 
 ## Interview Process
 
-### Round 1: Online Test
+### Round 1: Technical (Coding + Problem Solving)
 
-- **Format**: Multiple-choice Questions
-- **Topics**: Java Programming, DSA, Aptitude, and SQL
-- **Duration**: 60 minutes
+1. **Introduce Yourself Beyond the Resume**:
+   - The interviewer asked me to share something not mentioned on my resume, allowing me to highlight personal interests or achievements outside my professional experience.
 
----
+2. **Discussion on Online Assessment (OA) Performance**:
+   - The interviewer inquired about the number of questions in the online assessment, how many I attempted, and my performance.
+   - We discussed any questions I couldn’t solve and the reasons behind it.
 
-### Round 2: Technical Interview
+3. **Coding Problem**:
+   - **Problem Statement**: Given two strings (first name and last name), merge them by selecting odd-indexed characters from the first name, even-indexed characters from the last name, and append remaining characters if one string is longer.
 
-1. **Projects**:
+4. **Database Design and SQL Problem**:
+   - Create two tables: employee and department with 10 sample entries.
+   - Suggested an ideal SQL structure and wrote commands for managing the tables.
 
-   - Discussed previous projects and asked to write functionality used in the project.
+5. **Web Development Task**:
+   - Changed the color of a button and moved it from the top navbar to the hero section using developer tools.
 
-2. **DSA**:
+6. **Database Concepts**:
+   - Explained the concept of a Primary Key.
 
-   - Sorting a linked list.
-   - Solving the linked list sorting problem with an additional constraint for circular linked lists.
+7. **Personal Goals**:
+   - Discussed my life’s goal, covering personal and professional aspirations.
 
-3. **Array Problem**:
+8. **JavaScript Knowledge**:
+   - Confirmed that JavaScript is case-sensitive.
 
-   - Find the median of two sorted arrays in `O(1)` space complexity.
-
-4. **OOPs Concepts**:
-
-   - Questions covering the basics of Object-Oriented Programming.
-
-5. **React**:
-   - Basic React questions, focusing on hooks.
-
----
-
-### Round 3: Technical Interview
-
-1. **Binary Tree**:
-
-   - Finding the height of a binary tree.
-
-2. **Stack**:
-
-   - Implementing a stack using a linked list.
-
-3. **DP Algorithm**:
-
-   - Minimum coins required to make a target value.
-
-4. **Pointer Concepts**:
-
-   - Asked questions related to dangling pointers.
-
-5. **Hash Map**:
-
-   - Discussion on hash maps and related questions.
-
-6. **React**:
-   - React questions focusing on hooks, prop drilling, and explaining unidirectional data flow in React.
+9. **Final Question**:
+   - When asked for questions, I inquired about the interviewer’s tenure, learning he had been with Mindfire since 2008.
 
 ---
 
-### Round 4: Technical Interview
+### Round 2: Technical (In-depth Concepts + Database)
 
-1. **Singleton Class**:
+1. **Feedback on Previous Round**:
+   - Reflected on missing the "NOT NULL" condition when defining the Primary Key.
 
-   - What is a Singleton class? Wrote code for Singleton class with a private constructor.
+2. **Primary Key vs. Unique Key**:
+   - Discussed differences between Primary Key and Unique Key in-depth.
 
-2. **Deadlock**:
+3. **Database Design Challenge**:
+   - Created a table for students and a relationship table to show many-to-many relationship with courses.
 
-   - Write a program to simulate a deadlock situation.
+4. **SQL Joins**:
+   - Displayed the student_name and student_id of students who have taken the course "Physics."
 
-3. **Stack Problems**:
+5. **Self-Evaluation**:
+   - The interviewer asked, "Would you hire yourself?" leading to a self-reflection.
 
-   - Sort a stack using recursion.
-   - Delete the middle element of a stack using recursion.
+6. **Topics Prepared for the Interview**:
+   - Mentioned preparation for React-related topics.
 
-4. **Parentheses Problem**:
-
-   - Find the maximum length of valid parentheses from a given string.
-
-5. **Sequence Problem**:
-   - Two numerical sequences were given, and the task was to find the missing one.
-
----
-
-### Round 5: Technical Interview
-
-1. **Virtual Functions**:
-
-   - Real-life use cases of virtual functions.
-
-2. **Pure Virtual Class**:
-
-   - What is a pure virtual class? What guarantees does it provide?
-
-3. **Hash Map**:
-
-   - Implementation of a hash map and why the search time complexity is `O(1)`.
-
-4. **OOPs Concepts**:
-
-   - More in-depth questions on error handling and other conceptual aspects of OOP.
-
-5. **IPC and Sockets**:
-   - Questions on Inter-Process Communication (IPC) from Operating Systems and Sockets from Computer Networks.
+7. **React Coding Task**:
+   - Imported a JSON file in React, displayed data, and styled it as per specific CSS suggestions.
 
 ---
 
-### Round 6: HR Round
+### Round 3: HR Round
 
-1. **Introduction**:
+1. **Family Background**:
+   - Discussed my parents’ names and occupations.
 
-   - General introduction.
+2. **Internship Experience**:
+   - Shared details about my internship, including my role and gained skills.
 
-2. **Achievement**:
+3. **Why Mindfire?**:
+   - Expressed my motivation for joining Mindfire and how it aligns with my career goals.
 
-   - Discussed the biggest personal achievement.
+4. **Hobbies and Interests**:
+   - Discussed my hobbies and how I spend time outside work.
 
-3. **Improvements**:
+5. **Final Remarks**:
+   - The interviewer concluded by mentioning that results would be communicated to my college.
 
-   - Asked about three areas for self-improvement in the future.
-
-4. **Previous Interview Experience**:
-   - Asked about previous interview experiences.
-
----
-
-### Round 7: Tech-Head Round
-
-1. **Introduction**:
-
-   - General introduction.
-
-2. **Matrix Problem**:
-
-   - Transpose a matrix without using extra space or a swap function.
-
-3. **String Sorting**:
-
-   - Sort a vector of strings according to the middle character of the string.
-
-4. **Puzzles**:
-   - Two puzzles were asked.
+6. **Location**:
+   - The interview process was conducted on-site at the Mindfire office.
