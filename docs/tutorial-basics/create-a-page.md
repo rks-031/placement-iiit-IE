@@ -48,8 +48,10 @@ Check out the following links for some sample resumes:
 
 [Sample resume 1](https://drive.google.com/file/d/1Sd4Yv79r7EVALPYzyvX-tEWpjsGAyxxa/view?usp=sharing)
 
-[Sample resume 2](https://drive.google.com/file/d/1YUyupqrDt_nwJbhlk4reUa1aavx5slF5/view?usp=sharing)
+[Sample resume 2](https://drive.google.com/file/d/1PSGN6nFuinkABjlp-XInaOonddBUmwqH/view?usp=sharing)
 
-[Sample resume 3](https://drive.google.com/file/d/1REwEJFxQvuOU8fYjYKm4Qh9C9MliNZw-/view?usp=sharing)
+[Sample resume 3](https://drive.google.com/file/d/1YUyupqrDt_nwJbhlk4reUa1aavx5slF5/view?usp=sharing)
+
+[Sample resume 4](https://drive.google.com/file/d/1REwEJFxQvuOU8fYjYKm4Qh9C9MliNZw-/view?usp=sharing)
 
 Use this approach to present your skills and experience in the best light!
