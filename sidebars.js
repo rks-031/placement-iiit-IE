@@ -21,7 +21,7 @@ const sidebars = {
     {
       type: "category",
       label: "Practice for your next OA",
-      items: ["practice-for-OA/DSA"],
+      items: ["practice-for-OA/DSA", "practice-for-OA/OOPS"],
     },
   ],
 };
