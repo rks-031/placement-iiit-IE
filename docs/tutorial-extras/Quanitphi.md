@@ -71,7 +71,7 @@
 <ul>
   <li> What would you do if you did a blunder mistake at the workplace? </li>
   <li> How would you manage a situation, if your team members won't agree to you? </li>
-  <li> How can you use your hobby in some or the other way to make work environment at Quantipih grow? </li>
+  <li> How can you use your hobby in some or the other way to make work environment at Quantiphi grow? </li>
   <li> One good and bad thig about Quantiphi.</li>
   <li> What's your biggest motivation? </li>
 </ul>
