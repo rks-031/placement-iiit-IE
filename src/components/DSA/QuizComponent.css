@@ -23,8 +23,9 @@
   transition: background-color 0.3s;
 }
 
-.option-label:hover {
-  background-color: var(--ifm-color-primary-lighter);
+[data-theme="dark"] .option-label:hover {
+  background-color: black;
+  color: white;
 }
 
 button {

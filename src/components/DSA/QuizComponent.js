@@ -4,7 +4,7 @@ import "./QuizComponent.css";
 
 const QuizComponent = () => {
   const [selectedAnswers, setSelectedAnswers] = useState({});
-  const [feedback, setFeedback] = useState({}); // Store feedback for each question
+  const [feedback, setFeedback] = useState({});
 
   const handleSelectAnswer = (question, answer) => {
     setSelectedAnswers({ ...selectedAnswers, [question]: answer });
