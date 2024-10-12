@@ -46,7 +46,7 @@ You can use a professionally designed template to get started:
 
 Check out the following links for some sample resumes:
 
-[Sample resume 1](https://drive.google.com/file/d/1Sd4Yv79r7EVALPYzyvX-tEWpjsGAyxxa/view?usp=sharing)
+[Sample resume 1](https://drive.google.com/file/d/1Cj7sxqs57yw8-ya8btEHIRcdZVdcQJ2x/view?usp=sharing)
 
 [Sample resume 2](https://drive.google.com/file/d/1PSGN6nFuinkABjlp-XInaOonddBUmwqH/view?usp=sharing)
 
