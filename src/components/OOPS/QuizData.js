@@ -39,6 +39,31 @@ export const questions = [
       d: "Combining multiple methods into one",
     },
   },
+  {
+    id: "question5",
+    text: `Janitor and Cashier classes have a print function that is similar. How can we refactor this code to reduce repetition?"
+    \nclass Janitor {
+      \n\t...
+      \n\tprint() {
+      \n\tconsole.log("Employee Name: " + self.name)
+      \n\t}
+      \n\t}
+      \n\tclass Cashier {
+      \n\t...
+      \n\tprint(){
+      \n\tconsole.log("Employee Name: " + self.name)
+      \n\t}
+      \n\t}
+    \n}`
+      
+    ,
+    options: {
+      a: "Replace 'self.name' with a getter method to encapsulate the member variable.",
+      b: "Replace the 'print' method with a 'toString' method. Use this new method to display data to the console.",
+      c: "Move the print methods from both the classes to a superclass.",
+      d: "Create a 'print' function outside both classes and call that function in the print method of both classes",
+    },
+  },
 ];
 
 export const correctAnswers = {

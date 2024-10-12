@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { questions, correctAnswers } from "./QuizData";
 import "../QuizComponent.css";
 
+
+
 const QuizComponent = () => {
   const [selectedAnswers, setSelectedAnswers] = useState({});
   const [feedback, setFeedback] = useState({});
@@ -24,7 +26,8 @@ const QuizComponent = () => {
     <div className="quiz-container">
       {questions.map((question) => (
         <div key={question.id} className="question-box">
-          <h3>{question.text}</h3>
+          {/* Render question text with image using dangerouslySetInnerHTML */}
+          <h3 dangerouslySetInnerHTML={{ __html: question.text }}></h3>
           <div className="options">
             {Object.keys(question.options).map((key) => (
               <label key={key} className="option-label">
