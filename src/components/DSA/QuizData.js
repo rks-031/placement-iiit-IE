@@ -75,14 +75,14 @@ export const questions = [
   {
     id: "question8",
     text: `Q8) What would be the linked list (singly) for the following function?
-    \nvoid f(Node* head) {
-      \n\tif(head == NULL) return;
-      \n\tif(head -> next) cout << head->next->val << " ";
-      \n\telse cout << "null";
-      \n\tcout << head -> val << " ";
-      \n\tf(head -> next);
-    \n}
-    \nIf the output is 2 1 3 2 4 3 5 4 3 5 null 3`,
+  void f(Node* head) {
+    if (head == NULL) return;
+    if (head->next) cout << head->next->val << " ";
+    else cout << "null ";
+    cout << head->val << " ";
+    f(head->next);
+  }
+  If the output is 2 1 3 2 4 3 5 4 null 3`,
     options: {
       a: "[2,1,3,2,4,3,5,4,3,5,null]",
       b: "[3,5,4,3,2,1,null]",
