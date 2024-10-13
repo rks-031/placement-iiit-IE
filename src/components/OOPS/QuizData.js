@@ -57,7 +57,6 @@ class Cashier {
     console.log("Employee Name: " + this.name);
   }
 }`,
-
     options: {
       a: "Replace 'this.name' with a getter method to encapsulate the member variable.",
       b: "Replace the 'print' method with a 'toString' method and use it to display data.",
