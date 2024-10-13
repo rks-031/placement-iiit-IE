@@ -24,8 +24,12 @@ const QuizComponent = () => {
     <div className="quiz-container">
       {questions.map((question) => (
         <div key={question.id} className="question-box">
-          {/* Render question text with image using dangerouslySetInnerHTML */}
+          {/* Render question text */}
           <h3>{question.text}</h3>
+          {/* Render image if available */}
+          {question.img && (
+            <img src={question.img} alt={`Question ${question.id}`} className="question-image" />
+          )}
           <div className="options">
             {Object.keys(question.options).map((key) => (
               <label key={key} className="option-label">
