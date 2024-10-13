@@ -1,4 +1,6 @@
-import dsaImg1 from "./dsa_img1.png";
+import dsaImg1 from "../../../static/img/dsa_img1.png";
+import dsaImg2 from "../../../static/img/dsa_img2.png";
+
 export const questions = [
   {
     id: "question1",
@@ -265,6 +267,17 @@ export const questions = [
       d: "3,1",
     },
   },
+  {
+    id: "question21",
+    text: `Q21) Find the number of strongly connected components in the graph below?
+    <img src="${dsaImg2}" alt="Graph Image" style="max-width: 100%; height: auto;"> `,
+    options: {
+      a: "1,1",
+      b: "6,1",
+      c: "1,2",
+      d: "3,1",
+    },
+  },
 ];
 
 export const correctAnswers = {
@@ -288,4 +301,5 @@ export const correctAnswers = {
   question18: "not answered yet",
   question19: "not answered yet",
   question20: "not answered yet",
+  question21: "not answered yet",
 };
