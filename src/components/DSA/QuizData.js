@@ -1,6 +1,3 @@
-import dsaImg1 from "../../../static/img/dsa_img1.png";
-import dsaImg2 from "../../../static/img/dsa_img2.png";
-
 export const questions = [
   {
     id: "question1",
