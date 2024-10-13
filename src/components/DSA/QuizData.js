@@ -288,18 +288,18 @@ export const correctAnswers = {
   question5: "a",
   question6: "c",
   question7: "d",
-  question8: "not answered yet",
-  question9: "not answered yet",
-  question10: "a",
-  question11: "not answered yet",
-  question12: "b",
-  question13: "a",
-  question14: "not answered yet",
-  question15: "not answered yet",
-  question16: "a",
-  question17: "not answered yet",
-  question18: "not answered yet",
-  question19: "not answered yet",
-  question20: "not answered yet",
-  question21: "not answered yet",
+  question8: "d",
+  question9: "a", // Assuming {10, 13, 9, 16, 15, 3, 9, 13} forms the max good pairs.
+  question10: "d", // Binary (100 in base-3) conversion shows this output.
+  question11: "d", // Selection sort fits as it places the largest first.
+  question12: "b", // Stack produces 0011011 after binary conversion.
+  question13: "a", // Tail recursion is when the recursive call is the last action.
+  question14: "e", // Segmentation fault since strings in C are immutable.
+  question15: "3", // After partition, 76 will be placed at the correct index.
+  question16: "a", // (n + 1) / 2 is the average search time for sequential search.
+  question17: "c", // Strategy forces opponent to lose using these conditions.
+  question18: "c", // The code inserts a node at the end of the list.
+  question19: "d", // Before the second multiplication, top and bottom are 3, 1.
+  question20: "2", // Based on the given graph, there are two articulation points.
+  question21: "4", // Four strongly connected components exist in the graph.
 };
