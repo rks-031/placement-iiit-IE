@@ -258,8 +258,7 @@ Pick ONE option`,
   },
   {
     id: "question20",
-    text: `Q20) An articulation point, also known as a "separating vertex", is one whose removal increases the number of connected components in a graph. How many articulation points are in the graph shown?
-<img src="${dsaImg1}" alt="Graph Image" style="max-width: 100%; height: auto;">`,
+    text: `Q20) An articulation point, also known as a "separating vertex", is one whose removal increases the number of connected components in a graph. How many articulation points are in the graph shown?`,
     options: {
       a: "1,1",
       b: "6,1",
@@ -269,8 +268,7 @@ Pick ONE option`,
   },
   {
     id: "question21",
-    text: `Q21) Find the number of strongly connected components in the graph below?
-<img src="${dsaImg2}" alt="Graph Image" style="max-width: 100%; height: auto;">`,
+    text: `Q21) Find the number of strongly connected components in the graph below?`,
     options: {
       a: "1,1",
       b: "6,1",
