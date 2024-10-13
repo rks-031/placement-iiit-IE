@@ -3,7 +3,7 @@ id: DSA
 title: Data Structures and Algorithms
 ---
 
-# DSA Online Assessment
+# DSA Practice Assessment
 
 import QuizComponent from '@site/src/components/DSA/QuizComponent';
 

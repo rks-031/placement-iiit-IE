@@ -50,6 +50,4 @@ Check out the following links for some sample resumes:
 
 [Sample resume 2](https://drive.google.com/file/d/1PSGN6nFuinkABjlp-XInaOonddBUmwqH/view?usp=sharing)
 
-[Sample resume 3](https://drive.google.com/file/d/1REwEJFxQvuOU8fYjYKm4Qh9C9MliNZw-/view?usp=sharing)
-
 Use this approach to present your skills and experience in the best light!

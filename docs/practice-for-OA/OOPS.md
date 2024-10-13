@@ -3,7 +3,7 @@ id: OOPs
 title: Object Oriented Programming
 ---
 
-# OOPs Online Assessment
+# OOPs Practice Assessment
 
 import QuizComponent from '@site/src/components/OOPS/QuizComponent';
 
