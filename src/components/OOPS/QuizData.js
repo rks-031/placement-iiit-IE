@@ -54,9 +54,8 @@ export const questions = [
       \n\tconsole.log("Employee Name: " + self.name)
       \n\t}
       \n\t}
-    \n}`
-      
-    ,
+    \n}`,
+
     options: {
       a: "Replace 'self.name' with a getter method to encapsulate the member variable.",
       b: "Replace the 'print' method with a 'toString' method. Use this new method to display data to the console.",

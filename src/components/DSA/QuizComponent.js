@@ -2,8 +2,6 @@ import React, { useState } from "react";
 import { questions, correctAnswers } from "./QuizData";
 import "../QuizComponent.css";
 
-
-
 const QuizComponent = () => {
   const [selectedAnswers, setSelectedAnswers] = useState({});
   const [feedback, setFeedback] = useState({});

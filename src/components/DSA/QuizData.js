@@ -81,8 +81,6 @@ export const questions = [
       \n\tf(head -> next);
     \n}
     \nIf the output is 2 1 3 2 4 3 5 4 3 5 null 3`,
-  
-    
     options: {
       a: "[2,1,3,2,4,3,5,4,3,5,null]",
       b: "[3,5,4,3,2,1,null]",
@@ -94,7 +92,7 @@ export const questions = [
     id: "question9",
     text: `Q9) A good pair is two adjacent integers whose sum is even. Which of the following arrangements of arr[N] produce(s) the maximum number of good pairs that is possible?
       \narr[8] = {10, 9, 13 15 3 16,9 13}
-      \nPick one or more options`, 
+      \nPick one or more options`,
     options: {
       a: "{10 13 9 16 15 3 9 13}",
       b: "{13 9 13 15 3 9 16 10}",
@@ -218,7 +216,7 @@ export const questions = [
       a: "x-y=0 and (x + y) is divisible by 2",
       b: "(x + y) is divisible by 3, 2y <x",
       c: "(x+y) is divisible by 3, 2x >y, and x > y",
-      d: "x+y)is divisible by 3 and x>y",
+      d: "x+y)is divisible by 3 and x>y",
     },
   },
   {
@@ -241,7 +239,7 @@ export const questions = [
       a: "Insert a node at the beginning of the list",
       b: "Delete a node at the beginning of the list",
       c: "Insert a node at the end of the list",
-      d: "Delete a node at the end of the list",
+      d: "Delete a node at the end of the list",
     },
   },
   {
