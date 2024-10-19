@@ -78,6 +78,38 @@ Which among these statement(s) is true?
       e: "I, II and III",
     },
   },
+  {
+    id: "question7",
+    text: "Q7) What number logically replaces (?)",
+    img: "/img/logical1.png",
+    options: {
+      a: "60",
+      b: "62",
+      c: "53",
+      d: "57",
+    },
+  },
+  {
+    id: "question8",
+    text: `Q8) Number represent by y in the below equation
+    (1101)₂ = (У)₃`,
+    options: {
+      a: "120",
+      b: "101",
+      c: "102",
+      d: "111",
+    },
+  },
+  {
+    id: "question9",
+    text: `Q9) In a company, 26 employees are in the HR department, 32 are in the technical department, and 30 are in the management department. Of these, 5 employees are in all three departments, while 37 are in only one of them. How many employees like only two of the three departments?`,
+    options: {
+      a: "36",
+      b: "18",
+      c: "88",
+      d: "27",
+    },
+  },
 ];
 
 export const correctAnswers = {
@@ -87,4 +119,7 @@ export const correctAnswers = {
   question4: "not answered yet",
   question5: "c",
   question6: "not answered yet",
+  question7: "not answered yet",
+  question8: "d",
+  question9: "not answered yet",
 };
