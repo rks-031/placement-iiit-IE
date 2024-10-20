@@ -26,10 +26,27 @@ const QuizComponent = () => {
         <div key={question.id} className="question-box">
           {/* Render question text */}
           <h3>{question.text}</h3>
-          {/* Render image if available */}
-          {question.img && (
-            <img src={question.img} alt={`Question ${question.id}`} className="question-image" />
+
+          {/* Conditionally render link just after the text */}
+          {question.link && (
+            <p className="question-link">
+              For Problem Statement, visit{" "}
+              <a href={question.link} target="_blank" rel="noopener noreferrer">
+                this link
+              </a>.
+            </p>
           )}
+
+          {/* Render multiple images if available */}
+          {question.imgs && question.imgs.map((imgSrc, index) => (
+            <img
+              key={index}
+              src={imgSrc}
+              alt={`Question ${question.id} Image ${index + 1}`}
+              className="question-image"
+            />
+          ))}
+
           <div className="options">
             {Object.keys(question.options).map((key) => (
               <label key={key} className="option-label">
@@ -42,9 +59,11 @@ const QuizComponent = () => {
               </label>
             ))}
           </div>
+
           <button onClick={() => handleSubmit(question.id)}>
             Check Answer
           </button>
+
           {feedback[question.id] && (
             <p
               className="feedback"

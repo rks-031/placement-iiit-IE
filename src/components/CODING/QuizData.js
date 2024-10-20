@@ -57,64 +57,43 @@ int getMaximumDistance(int location_count, int* location, int k) {
 }
 Complete the above function
 `,
-img: "/img/coding1.png",
+link: "https://leetcode.com/discuss/interview-question/5696760/K-Means-Clustering-By-Apple-India/",
+imgs: ["/img/coding1.png"],
 
       options: {
       
       },
     },
-    {
+      {
         id: "question2",
-        text: ` Problem Statement
-You're a pirate captain with a treasure map. The map shows islands connected by bridges, and each island has treasure.
-You need to plan a treasure hunting trip with the following rules:
-1 You can only visit one island at a time.
-2 You can only travel between islands using the bridges.
-3 Once you leave an island, you can't go back to it
-4 Some islands might have more than one bridge connecting them.
-Your task is to start at a specific island and end at another specific island, visiting other islands along the way. The gr to collect as much treasure as possible in the shortest amount of time.
-Note: There are no cycles in the graph ( the graph is a DAG )
-
-Input Format
-The first line of input contains three space - separated integers N, M and K representing the number of islands, number of bridges, and the number of starting - ending island pairs respectively.
-The second line contains N space - separated integers 1,2,...,71,72,..., TN representing the amount of treasure on each island.
-The next M lines each contain three space - separated integers U, V and W representing a bridge between islands U and V with travel time W.
-The next K lines each contain two space - separated integers S and E representing a starting island S and an ending island E.
-
-Output Format
-For each starting-ending pair, display two space-seperated integers which represent the maximum total amount of treasure that can be collected and the minimum travel time to collect that treasure
-
-Sample TestCase 1:
-TestCase Input:
-5 6 1
-10 20 30 40 50
-1 2 5
-1 3 10
-2 4 10
-3 4 5
-4 5 1
-2 5 2
-1 5
-
-TestCase Output:
-130 16
-
-Explanation:
-(refer to diagram given below)
-One possible path is 1 -> 3 -> 4 -> 5 The treasures collected are 10+30+40+50 = 130
-and the travel time is 10 + 5 + 1 = 16
-
-EDITOR
-Language : C++
-
-int main(){
-/* Enter your code here read input from STDIN and print output to STDOUT*/
-return 0;
-}
-`,
-img: "/img/coding3.jpg",
+        text: ``,
+        imgs: ["/img/code/code1a.png", "/img/code/code1b.png", "/img/code/code1c.png", "/img/code/code1d.png"],
         options: {
-        
+          
+        },
+      },
+      {
+        id: "question3",
+        text: `The Robbery Problem `,
+        link: "https://studyx.ai/homework/101990246-the-robbery-problem-statement-there-exists-a-small-town-named-richieworld-and-its-people",
+        options: {
+          
+        },
+      },
+      {
+        id: "question4",
+        text: `Intelligent SubString `,
+        link: "https://www.geeksforgeeks.org/find-length-of-longest-substring-with-at-most-k-normal-characters/",
+        options: {
+          
+        },
+      },
+      {
+        id: "question4",
+        text: ``,
+        imgs: ["/img/code/code5a.png", "/img/code/code5b.png"],
+        options: {
+          
         },
       },
   ];
