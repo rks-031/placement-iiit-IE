@@ -31,7 +31,7 @@ export const questions = [
   },
   {
     id: "question4",
-    text: "Q4 )Unordered map is built over",
+    text: "Q4)Unordered map is built over",
     options: {
       a: "Red Black trees",
       b: "Binary trees",
@@ -255,22 +255,76 @@ Pick ONE option`,
   },
   {
     id: "question20",
-    text: `Q20) An articulation point, also known as a "separating vertex", is one whose removal increases the number of connected components in a graph. How many articulation points are in the graph shown?`,
+    text: `Q20) An articulation point, also known as a "separating vertex", is one whose removal increases the number of connected components in a graph. How many articulation points are in the graph shown? `,
+    img: "/img/dsa_img1.png",
     options: {
-      a: "1,1",
-      b: "6,1",
-      c: "1,2",
-      d: "3,1",
+      a: "1",
+      b: "6",
+      c: "2",
+      d: "3",
     },
   },
   {
     id: "question21",
     text: `Q21) Find the number of strongly connected components in the graph below?`,
+    img: "/img/dsa_img2.png",
     options: {
-      a: "1,1",
-      b: "6,1",
-      c: "1,2",
-      d: "3,1",
+      a: "4",
+      b: "6",
+      c: "2",
+      d: "3",
+    },
+  },
+  {
+    id: "question22",
+    text: `Q22) Determine the time complexity of linear search in an array of size 'n'?`,
+    options: {
+      a: "O(1)",
+      b: "O(log n)",
+      c: "O(n)",
+      d: "O(n^2)",
+    },
+  },
+  {
+    id: "question23",
+    text: `Q23) What would happen if a function keeps calling itself infinitely?`,
+    options: {
+      a: "Heap Overflow",
+      b: "Buffer Overflow",
+      c: "Stack overflow",
+      d: "Segmentation Fault",
+    },
+  },
+  {
+    id: "question24",
+    text: `Q24) Select the data structure suitable for implementing a dictionary with key-value?`,
+    options: {
+      a: "Array",
+      b: "Hash Table",
+      c: "Stack",
+      d: "Queue",
+    },
+  },
+  {
+    id: "question25",
+    text: `Q25) What is the maximum number of keys in a B-tree of order 6 and of height 4?
+In computer science, a B-tree is a self-balancing tree data structure that maintains sorted data and allows searches, sequential access, insertions, and deletions in logarithmic time. B Tree is a specialized m-way tree that is widely used for disk access.
+    `,
+    options: {
+      a: "7776",
+      b: "7775",
+      c: "16384",
+      d: "16383",
+    },
+  },
+  {
+    id: "question26",
+    text: `Q26) A circular linked list can be used to implement?`,
+    options: {
+      a: "Stack",
+      b: "Queue",
+      c: "Both",
+      d: "Neither",
     },
   },
 ];
@@ -290,11 +344,16 @@ export const correctAnswers = {
   question12: "b", // Stack produces 0011011 after binary conversion.
   question13: "a", // Tail recursion is when the recursive call is the last action.
   question14: "e", // Segmentation fault since strings in C are immutable.
-  question15: "3", // After partition, 76 will be placed at the correct index.
+  question15: "b", // After partition, 76 will be placed at the correct index.
   question16: "a", // (n + 1) / 2 is the average search time for sequential search.
   question17: "c", // Strategy forces opponent to lose using these conditions.
   question18: "c", // The code inserts a node at the end of the list.
   question19: "d", // Before the second multiplication, top and bottom are 3, 1.
-  question20: "2", // Based on the given graph, there are two articulation points.
-  question21: "4", // Four strongly connected components exist in the graph.
+  question20: "c", // Based on the given graph, there are two articulation points.
+  question21: "a", // Four strongly connected components exist in the graph.
+  question22: "c",
+  question23: "c",
+  question24: "b",
+  question25: "b",
+  question26: "c",
 };
