@@ -24,7 +24,8 @@
 
 6. SQL Queries
 
-   &nbsp;[Just practice these, you'll be sorted!](https://docs.google.com/presentation/d/1IqV_h8SdailZMyvuzlzzCuoplXQ6fp64KMjFxORAZx0/edit#slide=id.g16af3914e8c_0_832)
+   &nbsp;[Just practice these, you'll be sorted!](https://docs.google.com/presentation/d/1IqV_h8SdailZMyvuzlzzCuoplXQ6fp64KMjFxORAZx0/edit#slide=id.g16af3914e8c_0_832) <br/>
+   &nbsp;[Additional scalar functions](https://ramkedem.com/en/mysql-scalar-functions/)
 
 7. Data Structures and Algorithms
 
