@@ -121,7 +121,17 @@ WHERE emp_department = 'Marketing' AND emp_role <> 'Management'`,
       c: `MySQL`,
       d: `Hierarchical`
     }
-  }
+  },
+  {
+    id: "question11",
+    text: `Q11) Observe the following query and choose the correct option: SELECT DISTINCT name FROM student WHERE ID IS NOT NULL;`,
+    options: {
+      a: "The query gives all the possible student names where a finite value exists for ID",
+      b: "The query gives the names of the students that have a null ID and it also excludes identical names",
+      c: "The query is syntactically wrong",
+      d: "The query gives the student names where a finite value exists for ID and it excludes identical names",
+    },
+  }  
 ];
 
 export const correctAnswers = {
@@ -134,5 +144,6 @@ export const correctAnswers = {
   question7: "d",
   question8: "a",
   question9: "a",
-  question10: "c"
+  question10: "c",
+  question11: 'd'
 };

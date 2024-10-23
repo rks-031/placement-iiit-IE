@@ -144,6 +144,46 @@ Pick ONE OR MORE options`,
           b: "False",
         },
       },
+      {
+        id: "question13",
+        text: `Q13) A thread is also called:`,
+        options: {
+          a: "Heavy Weight Process (HWP)",
+          b: "Process",
+          c: "None of the mentioned",
+          d: "Light Weight Process (LWP)",
+        },
+      },
+      {
+        id: "question14",
+        text: `Q14) Web search engines store information about many web pages by a:`,
+        options: {
+          a: "Web Organizer",
+          b: "Web Indexer",
+          c: "Web Router",
+          d: "Web Crawler",
+        },
+      },
+      {
+        id: "question15",
+        text: `Q15) Identify the HTTP status code that does not correctly match its description:`,
+        options: {
+          a: "301 Gone",
+          b: "415 Unsupported Media Type",
+          c: "200 OK",
+          d: "404 Not Found",
+        },
+      },
+      {
+        id: "question16",
+        text: `Q16) The time required to examine the packet's header and determine where to direct the packet is part of:`,
+        options: {
+          a: "All of the mentioned",
+          b: "Transmission delay",
+          c: "Processing delay",
+          d: "Queuing delay",
+        },
+      }      
   ];
   
   export const correctAnswers = {
@@ -159,5 +199,9 @@ Pick ONE OR MORE options`,
     question10: "not answered yet",
     question11: "f",
     question12: "not answered yet",
+    question13: "d",
+    question14: "not answered yet",
+    question15: "not answered yet",
+    question16: "not answered yet",
   };
   
