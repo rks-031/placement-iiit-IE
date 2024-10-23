@@ -1,7 +1,7 @@
 export const questions = [
   {
     id: "question1",
-    text: "Q1) In the context of Dynamic Programming, what is 'memoization'?",
+    text: "Q1) In the context of Dynamic Programming, what is 'Memoization'?",
     options: {
       a: "Writing an algorithm in a memo to remember it.",
       b: "Recomputation of subproblems for accuracy.",
