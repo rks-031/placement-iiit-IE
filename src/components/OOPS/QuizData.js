@@ -1,7 +1,7 @@
 export const questions = [
   {
     id: "question1",
-    text: "Q1) What is the main feature of Object-Oriented Programming?",
+    text: "Q1) What is the main feature of OOPs?",
     options: {
       a: "Procedural programming",
       b: "Data encapsulation",
