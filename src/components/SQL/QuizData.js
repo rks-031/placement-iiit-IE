@@ -131,7 +131,7 @@ WHERE emp_department = 'Marketing' AND emp_role <> 'Management'`,
       c: "The query is syntactically wrong",
       d: "The query gives the student names where a finite value exists for ID and it excludes identical names",
     },
-  }  
+  },
 ];
 
 export const correctAnswers = {
