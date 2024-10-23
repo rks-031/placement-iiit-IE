@@ -1,7 +1,7 @@
 export const questions = [
   {
     id: "question1",
-    text: `Q1) The SQL statement
+    text: `Q1) The SQL statement:
 SELECT ROUND(45.926, -2) FROM DUAL;`,
     options: {
       a: "Is illegal",
@@ -93,6 +93,45 @@ FROM employees
 WHERE emp_department = 'Marketing' AND emp_role <> 'Management'`,
     },
   },
+  {
+    id: "question8",
+    text:`Q8) With SQL, how can you insert a new record into the "Persons" table?`,
+    options: {
+      a: `INSERT INTO Persons VALUES ('Jimmy', 'Jackson')`,
+      b: `INSERT ('Jimmy', 'Jackson') INTO Persons`,
+      c: `INSERT VALUES ('Jimmy', 'Jackson') INTO Persons`
+    }
+  },
+  {
+    id: "question9",
+    text:`Q9) In SQL, which clause is used to filter rows before grouping and which clause is used to filter groups after aggregation?`,
+    options: {
+      a: `WHERE filters rows before aggregation, and HAVING filters groups after aggregation.`,
+      b: `HAVING filters rows before aggregation, and WHERE filters groups after aggregation.`,
+      c: `HAVING and WHERE are interchangeable and can be used to filter rows at any stage.`,
+      d: `WHERE filters all rows in the result set, including those grouped by GROUP BY.`
+    }
+  },
+  {
+    id: "question10",
+    text:`Q10) Which one of these is not a Database System Type?`,
+    options: {
+      a: `Relational`,
+      b: `Network`,
+      c: `MySQL`,
+      d: `Hierarchical`
+    }
+  },
+  {
+    id: "question11",
+    text: `Q11) Observe the following query and choose the correct option: SELECT DISTINCT name FROM student WHERE ID IS NOT NULL;`,
+    options: {
+      a: "The query gives all the possible student names where a finite value exists for ID",
+      b: "The query gives the names of the students that have a null ID and it also excludes identical names",
+      c: "The query is syntactically wrong",
+      d: "The query gives the student names where a finite value exists for ID and it excludes identical names",
+    },
+  }  
 ];
 
 export const correctAnswers = {
@@ -103,4 +142,8 @@ export const correctAnswers = {
   question5: "b",
   question6: "a",
   question7: "d",
+  question8: "a",
+  question9: "a",
+  question10: "c",
+  question11: 'd'
 };
