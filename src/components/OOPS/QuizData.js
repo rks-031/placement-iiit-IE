@@ -1,7 +1,7 @@
 export const questions = [
   {
     id: "question1",
-    text: "Q1) What is the main feature of Object-Oriented Programming?",
+    text: "Q1) What is the main feature of OOPs?",
     options: {
       a: "Procedural programming",
       b: "Data encapsulation",
@@ -116,6 +116,95 @@ class Program {
       d: "16, 30",
     },
   },
+  {
+    id: "question9",
+    text: `Q9) How many copies of a constructor function are created for a class in a 
+    typical object-oriented programming language?`,
+    options: {
+      a: "One per method call",
+      b: "One per instance of the class",
+      c: "One per class definition",
+      d: "None of the above",
+    },
+  },
+  {
+    id: "question10",
+    text: `Q10) The concept of many functions with same name is known as?`,
+    options: {
+      a: "Function Overriding",
+      b: "Operator Overloading",
+      c: "Function Overloading",
+      d: "Function _______________",
+    },
+  },
+  {
+    id: "question11",
+    text: `Q11) A copy constructor is called`,
+    options: {
+      a: "when an object is passed by value as an argument",
+      b: "when an object is returned by value",
+      c: "when compiler generates a temporary object",
+      d: "all the above",
+    },
+  },
+  {
+    id: "question12",
+    text: `Q12) Which of the following is not a type of inheritance?`,
+    options: {
+      a: "Multilevel",
+      b: "Multiple",
+      c: "Distributive",
+      d: "Hierarchical",
+    },
+  },
+  {
+    id: "question13",
+    text: `Q13) How many instances of an abstract class can be created?`,
+    options: {
+      a: "As many as required",
+      b: "Zero",
+      c: "As many as initialised",
+      d: "One",
+    },
+  },
+  {
+    id: "question14",
+    text: `Q14) Which of the following ways are correct to comment out preprocessing of any line?`,
+    options: {
+      a: "'#include<stdio.h>'",
+      b: "##include<stdio.h>",
+      c: "// #include<stdio.h>",
+      d: "--#include<stdio.h>",
+    },
+  },
+  {
+    id: "question15",
+    text: `Q15) Is it possible to run a program without main() function?`,
+    options: {
+      a: "No",
+      b: "Yes",
+    },
+  },
+  {
+    id: "question16",
+    text: `Q16) What happens if you place a comment using // in the middle of a preprocessing directive like #include as #inclu//de?`,
+    options: {
+      a: "The entire line is treated as a comment.",
+      b: "The comment is ignored, but the directive is processed.",
+      c: "Compilation will result in an error.",
+      d: "The directive is ignored during compilation.",
+    },
+  },
+  {
+    id: "question17",
+    text: `Q17) How many abstract methods should an abstract class have?`,
+    options: {
+      a: "Three",
+      b: "Two",
+      c: "One",
+      d: "Zero",
+    },
+  }
 ];
 
 export const correctAnswers = {
@@ -127,4 +216,13 @@ export const correctAnswers = {
   question6: "e",
   question7: "d",
   question8: "a",
+  question9: "d",
+  question10: "c",
+  question11: "d",
+  question12: "c",
+  question13: "b",
+  question14: "c",
+  question15: "b",
+  question16: "c",
+  question17: "c",
 };
