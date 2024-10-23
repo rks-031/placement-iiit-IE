@@ -178,10 +178,10 @@ Pick ONE OR MORE options`,
         id: "question16",
         text: `Q16) The time required to examine the packet's header and determine where to direct the packet is part of:`,
         options: {
-          a: "All of the mentioned",
+          a: "Queuing delay",
           b: "Transmission delay",
           c: "Processing delay",
-          d: "Queuing delay",
+          d: "All of the mentioned",
         },
       }      
   ];
