@@ -847,5 +847,5 @@ export const correctAnswers = {
   question54: "b",
   question55: "b",
   question56: "c",
-  question57: "d",
+  question57: "a",
 };
