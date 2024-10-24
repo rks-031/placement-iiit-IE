@@ -6,7 +6,25 @@
 
 ![SEO score](https://github.com/user-attachments/assets/6b498c0b-f5e7-4af3-a9b3-ae67848a1517)
 
+## Working with the repository
 
+1. &nbsp;Clone the repository
+
+```bash
+    git clone https://github.com/rks-031/placement-iiit-IE.git
+```
+
+2. &nbsp;Install the dependency
+
+```bash
+    npm install
+```
+
+3. &nbsp; Stat the local UI server
+
+```bash
+    npm start
+```
 
 ## Project Maintainers
 

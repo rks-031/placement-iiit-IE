@@ -7,7 +7,8 @@
 
 2. OOPs
 
-   &nbsp;[Handwritten Notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ea5cad3d-df02-4b8a-b79e-5bfcdfefc741)
+   &nbsp;[Handwritten Notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ea5cad3d-df02-4b8a-b79e-5bfcdfefc741) <br/>
+   &nbsp;[Problems with Multiple Inheritance](https://acrobat.adobe.com/id/urn:aaid:sc:AP:042856ff-5f78-4036-9cfe-bd3e51f0c43a)
 
 3. DBMS
 
