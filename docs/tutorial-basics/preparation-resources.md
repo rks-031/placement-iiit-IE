@@ -34,6 +34,11 @@
 
 8. System Design
 
-   &nbsp;[System Design Book](https://drive.google.com/file/d/1Dp_WbnybBPILOu58nirwjTa1cOvromyh/view?usp=sharing) (Just have a basic idea, do not try to deep dive!)
+   &nbsp;[System Design Book](https://drive.google.com/file/d/1Dp_WbnybBPILOu58nirwjTa1cOvromyh/view?usp=sharing) (Just have a basic idea, do not try to deep dive!) <br/>
+   &nbsp;[Gaurav Sen Playlist](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=Spoc7b19LMnPeIPt)
+
+9. Computer Networks
+
+   &nbsp;[Handwritten Notes](https://acrobat.adobe.com/id/urn:aaid:sc:AP:3903ea7e-5179-48a9-a376-b1f4e2cc1599)
 
 _Note: Study from other resources also for the topics which are not present in the above notes._
