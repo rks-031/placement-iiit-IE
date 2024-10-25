@@ -21,7 +21,7 @@ const sidebars = {
     {
       type: "category",
       label: "Practice for your next OA",
-      items: ["practice-for-OA/DSA", "practice-for-OA/OOPs", "practice-for-OA/SQL", "practice-for-OA/REASONING", "practice-for-OA/OS" , "practice-for-OA/REASONING", "practice-for-OA/CODING"],
+      items: ["practice-for-OA/DSA", "practice-for-OA/OOPs", "practice-for-OA/SQL", "practice-for-OA/REASONING", "practice-for-OA/OS", "practice-for-OA/CODING"],
     },
   ],
 };
