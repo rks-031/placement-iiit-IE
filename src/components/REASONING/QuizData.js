@@ -110,6 +110,112 @@ Which among these statement(s) is true?
       d: "27",
     },
   },
+  {
+    id: "question10",
+    text: "Q10) In a certain coding system 'MANAGEMENT' is coded as 1232451536. How will you code 'GATE'?",
+    options: {
+      a: "4652",
+      b: "5213",
+      c: "2365",
+      d: "4265",
+      e: "4132",
+    },
+  },
+  {
+    id: "question11",
+    text: "Q11) In a certain system 'RANGER' is coded as 'REGNAR'. How will you code 'TABLE'?",
+    options: {
+      a: "TABLE",
+      b: "ELBAT",
+      c: "TELBET",
+      d: "TELBA",
+      e: "EBATL",
+    },
+  },
+  {
+    id: "question12",
+    text: "Q12) In a certain coding system '6743' is coded as 'FGDC'. How will you code '97285'?",
+    options: {
+      a: "IGBHE",
+      b: "RTYSV",
+      c: "GVSTU",
+      d: "IHCIF",
+      e: "HCSIF",
+    },
+  },
+  {
+    id: "question13",
+    text: "Q13) Choose the most logical option: If all fans are coolers and all fans are air conditioners, then no cooler is an air conditioner.",
+    options: {
+      a: "is always true",
+      b: "is always false",
+      c: "may or may not be true",
+    },
+  },
+  {
+    id: "question14",
+    text: "Q14) Read the statement and choose which of the assumptions are implied. Rajiv's father instructed him to not return home if it snows heavily. 1. Rajiv may not be able to decide himself if it snows. 2. No public transport will ply if it snows heavily.",
+    options: {
+      a: "if only assumption 1 is implicit",
+      b: "if only assumption 2 is implicit",
+      c: "if either 1 or 2 is implicit",
+      d: "if neither 1 nor 2 is implicit",
+      e: "if both 1 and 2 are implicit",
+    },
+  },
+  {
+    id: "question15",
+    text: "Q15) Read the statement and choose which of the assumptions are implied. If the rainfall is not adequate during these monsoons the farmers will not be able to pay back their loans. 1. Adequate rainfall is essential for agriculture. 2. Most farmers are dependent on rainfall or irrigation.",
+    options: {
+      a: "if only assumption 1 is implicit",
+      b: "if only assumption 2 is implicit",
+      c: "if either 1 or 2 is implicit",
+      d: "if neither 1 nor 2 is implicit",
+      e: "if both 1 and 2 are implicit",
+    },
+  },
+  {
+    id: "question16",
+    text: "Q16) Choose the word that best completes the comparison: colt:stallion::joey:_______",
+    options: {
+      a: "kangaroo",
+      b: "ostrich",
+      c: "koala",
+    },
+  },
+  {
+    id: "question17",
+    text: "Q17) The problem below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements is sufficient to answer the question. Read both the statements and give the answer. How many children are there in the group? I. Sangita has scored more marks than 12 children in the group. II. Reena has scored less than Sangita.",
+    options: {
+      a: "Statement i alone is sufficient",
+      b: "Statement ii alone is sufficient",
+      c: "Statements i and ii together are sufficient",
+      d: "Either of the statements i or ii alone is sufficient",
+      e: "Statements i and ii together also are not sufficient",
+    },
+  },
+  {
+    id: "question18",
+    text: "Q18) In a certain coding system 'TEN' is coded as 256 and 'SIXTY' is coded as 19827. How will you code 'SIXTEEN'?",
+    options: {
+      a: "1965255",
+      b: "1963225",
+      c: "1982556",
+      d: "1963556",
+      e: "1985562",
+    },
+  },
+  {
+    id: "question19",
+    text: "Q19) Read the statement and choose which of the assumptions are implied. The procession will leave at 6pm but people can directly reach the ceremony venue. You can reach till 8 pm, it will not be an issue. 1. The ceremony will start at 8 pm. 2. The ceremony will not start till the procession reaches the venue.",
+    options: {
+      a: "if only assumption 1 is implicit",
+      b: "if only assumption 2 is implicit",
+      c: "if either 1 or 2 is implicit",
+      d: "if neither 1 nor 2 is implicit",
+      e: "if both 1 and 2 are implicit",
+    },
+  },
 ];
 
 export const correctAnswers = {
@@ -122,4 +228,13 @@ export const correctAnswers = {
   question7: "not answered yet",
   question8: "d",
   question9: "not answered yet",
+  question10: "not answered yet",
+  question12: "not answered yet",
+  question13: "not answered yet",
+  question14: "not answered yet",
+  question15: "not answered yet",
+  question16: "not answered yet",
+  question17: "not answered yet",
+  question18: "not answered yet",
+  question19: "not answered yet",
 };
