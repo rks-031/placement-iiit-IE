@@ -785,7 +785,278 @@ int main()
       c: "char",
       d: "long"
     }
-  }
+  },
+  {
+    id: "question58",
+    text: `Q58. What will be the time complexity of the following pseudo code?
+
+boolean TestFunction(int n){
+    for(int x=0; x*x<=n; x++){
+        if(n%x==0){
+            return false;
+        }
+    }
+    return true;
+}
+`,
+    options: {
+        a: "1",
+        b: "N",
+        c: "log N",
+        d: "√n"
+    }
+},
+
+{
+    id: "question59",
+    text: `Q59. Consider a hash table with hash function h(k) = k mod 10. It uses linear probing as collision resolution technique. Suppose the length of the table is 15 and 26, 22, 24, 32, 33, 23 are inserted in the empty table in the following manner:
+
+key-value
+2-22
+3-33
+4-24
+5-32
+6-26
+7-23
+
+What is the correct order in which the values could have been inserted?
+`,
+    options: {
+        a: "22, 33, 32, 23, 26, 24",
+        b: "32, 23, 22, 33, 26, 24",
+        c: "26, 24, 22, 33, 32, 23",
+        d: "22, 32, 26, 24, 23, 33"
+    }
+},
+{
+    id: "question60",
+    text: `Q60. Which algorithm uses divide and conquer technique to sort elements in increasing or decreasing order?
+`,
+    options: {
+        a: "Merge sort",
+        b: "Quick sort",
+        c: "Selection sort",
+        d: "Both merge and quick sort"
+    }
+},
+{
+    id: "question61",
+    text: `Q61. Assuming f(n) as a function that returns the factorial of a number n, if f(n) is implemented tail recursively and the compiler is capable of optimizing tail recursion, what would be the maximum depth of the call stack, at any given time, created by the call f(10)?
+`,
+    options: {
+        a: "10",
+        b: "11",
+        c: "1",
+        d: "2"
+    }
+},
+{
+    id: "question62",
+    text: `Q62. What is the correct way to find a value in a complete binary search tree?
+`,
+    options: {
+        a: "First compare the key with root node, if equal then return the root node. Else, if key is greater than the root node's key, recursive call for right subtree of tree node. And if key is lesser than the root node's key, recursive call for lesser subtree of tree node.",
+        b: "First compare the key with root node, if equal then return the root node. Else, if key is lesser than the root node's key, recursive call for right subtree of tree node. And if key is greater than the root node's key, recursive call for lesser subtree of tree node.",
+        c: "Traverse and compare all the keys one by one, starting from the left most node's key of the last level of the tree. If equal then return the node.",
+        d: "Traverse and compare all the keys one by one, starting from the node's key. If equal then return the node."
+    }
+},
+{
+    id: "question63",
+    text: `Q63. Stack is a distinct type of list where the operations are performed at one end of the stack.
+Determine:
+1) What is the principle under which stack operations take place?
+2) Which method cannot be performed in stack?
+`,
+    options: {
+        a: "1) Continuous allocation 2) Accessing the top element in stack",
+        b: "1) Dynamic distribution 2) Removing an element from the stack",
+        c: "1) Last in first out 2) Replace an element in stack",
+        d: "1) First in first out 2) Insert an element in stack"
+    }
+},
+{
+    id: "question64",
+    text: `Q64. Consider an array X[10]={24,2,9,3,7,8,22,16,12,10}. To sort the array in ascending order, quick sort divide and conquer algorithm has been used. The last element of the array is used as the pivot. Select the correct output of each pass of the algorithm.`,
+    options: {
+        a: `1 {2,9,3,7,8,10,22,12,16,24}
+         2 {2,3,7,8,9,10,22,12,16,24}
+         3 {2,3,7,8,9,10,12,16,22,24}
+         4 {2,3,7,8,9,10,12,16,22,24}`,
+        b: `1 {10,2,9,3,7,8,22,12,16,24}
+        2 {24,2,3,7,8,9,10,22,12,16}
+        3 {2,3,7,8,9,10,12,16,22,24}
+        4 {2,3,7,8,9,10,12,16,22.24}`,
+        c: `1 {2,9,3,7,8,22,12,16,24,10} 
+        2 {2,3,7,8,9,22,12,16,24,10}
+        3 {2,3,7,8,9,12,16,22,24,10)
+        4 {2,3,7,8,9,10,12,16,22,24}`,
+        d: `1 {2,3,7,8,9,10,22,12,16,24}
+        2.{2,3,7,8,9,10,22,12,16,24}
+        3 {2,3,7,8,9,10,12,16,22,24}
+        4 {2,3,7,8,9,10,12,16,22,24}`
+    }
+},
+{
+    id: "question65",
+    text: `Q65. Consider a tree of height 4. You need to delete a node from level 2. The node to be deleted has two children. Which approach should be used to delete it?`,
+    options: {
+        a: "Simply remove from the tree.",
+        b: "Find inorder successor of the node. Copy contents of the inorder successor to the node and delete the inorder successor.",
+        c: "Find postorder successor of the node. Copy contents of the postorder successor to the node and delete the postorder successor.",
+        d: "Copy the child to the node and delete the child."
+    }
+},
+{
+    id: "question66",
+    text: `Q66. In a program, the input of items is in a sorted array {8,7,5,4,2}. New numbers are coming randomly and getting added to the array such as the number 9 got added leading to - {8,7,54,2,9}. The new array is nearly sorted but the program needs the array to be in descending order completely. To reduce the time complexity of the algorithm, which sorting method should be used in this case?`,
+    options: {
+        a: "Bubble sort",
+        b: "Insertion Sort",
+        c: "Merge sort",
+        d: "Bucket sort"
+    }
+},
+{
+    id: "question67",
+    text: `Q67. What will be the output of the following program?
+
+import java.util.*;
+class Queue {
+    public void insert (int queue[], int front, int rear, int item){
+        if(front == -1 && rear == -1) {
+            front = 0;
+            rear = 0;
+        }
+        else {
+            rear = rear +1;
+        }
+        queue[rear]=item;
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        int[] Nums = new int[5];
+        Queue q = new Queue();
+        q.insert(Nums,0,1,1);
+        q.insert(Nums,1,2,3);
+        q.insert(Nums,2,3,4);
+        for(int i: Nums){
+            System.out.println(i);
+        }
+    }
+}
+`,
+    options: {
+        a: "1 2 1 3 4",
+        b: "0 0 1 2 4",
+        c: "0 0 1 3 4",
+        d: "1 2 3 4 1"
+    }
+},
+{
+    id: "question68",
+    text: `Q68. The following code is used to create a heap from any provided array:
+
+void buildHeap(int arr[], int n){
+    int startIdx = (n/2)-1;
+    for (int i = startIdx; i>= 10; i--) {
+        heapify(arr, n, i);
+    }
+}
+void heapify(int arr[], int n, int i){
+    int largest = i; 
+    int l = 2*i+1;
+    int r = 2*i+2;
+    if (l < n && arr[l] > arr[largest])
+        largest = l;
+    if (r < n && arr[r] > arr[largest])
+        largest = r;
+    if (largest != i) {
+        int swap = arr[i]; 
+        arr[i] = arr[largest];
+        arr[largest] = swap;
+        heapify(arr, n, largest);
+    }
+}
+
+Which array will generate a heap as shown below after passing through this code?
+
+                    97
+                 .      .
+                .         .
+               53         59 
+              .  .       .   .
+             .    .     .     .
+            26    41   58     31
+`,
+    options: {
+        a: "26,41,53,97,31,58,59",
+        b: "26,31,41,53,58,59,97",
+        c: "97,53,59,26,41,58,31",
+        d: "26,53,41,97,58,59,31"
+    }
+},
+{
+    id: "question69",
+    text: `Q69. Choose the correct diagram from the given options that shows the Max Heap.
+
+
+               ◯
+    "to"    .        .  "add"
+         .              .
+       ◯                ◯ 
+"p$" .    . "tal$"     .    .
+   .       .      "$".        ."ition$"
+ ◯         ◯     ◯          ◯
+
+
+`,
+    options: {
+        a: `                  95
+                     .      .
+                    .         .
+                   45         63 
+                  .  .       .   .
+                 .    .     .     .
+                10    35   52     25
+               .  .
+              .    .
+             15     4`,
+        b: `                  63
+                     .      .
+                    .         .
+                   45         95 
+                  .  .       .   .
+                 .    .     .     .
+                52    35   25     4
+               .  .
+              .    .
+             15     10`,
+        c: `                  95
+                     .      .
+                    .         .
+                   63         52 
+                  .  .       .   .
+                 .    .     .     .
+                35    15   45     25
+               .  .
+              .    .
+             10     4`,
+        d: `                  63
+                     .      .
+                    .         .
+                   45         95 
+                  .  .       .   .
+                 .    .     .     .
+                52    35   15     10
+               .  .
+              .    .
+             25     4`
+    }
+}
+
+
   
   
 ];
@@ -848,4 +1119,16 @@ export const correctAnswers = {
   question55: "b",
   question56: "c",
   question57: "a",
+  question58: "d",
+  question59: "c",
+  question60: "d",
+  question61: "c",
+  question62: "a",
+  question63: "c",
+  question64: "a",
+  question65: "b",
+  question66: "b",
+  question67: "c",
+  question68: "c",
+  question69: "c",
 };
