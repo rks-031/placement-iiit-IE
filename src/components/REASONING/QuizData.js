@@ -216,6 +216,117 @@ Which among these statement(s) is true?
       e: "if both 1 and 2 are implicit",
     },
   },
+  {
+    id: "question20",
+    text: "Q20) All the words of a tribe's language consist of the letters Y and N only. How many 4-letter words can be written in this language?",
+    options: {
+      a: "16",
+      b: "12",
+      c: "8",
+      d: "4",
+    },
+  },
+  {
+    id: "question21",
+    text: `Q21) The following letters indicate mathematical operations:
+A: Addition 
+E: Equal to 
+S: Subtraction
+G: Greater than
+M: Multiplication 
+L: Less than 
+D: Division
+Which option is correct according to the given letter symbol?`,
+    options: {
+      a: "6M9A2L8D2M4",
+      b: "6D3D2E23S32A9",
+      c: "6S4A2E8S4D2",
+      d: "6A9M2G23S12D2",
+    },
+  },
+  {
+    id: "question22",
+    text: "Q22) A family rented three bicycles and one motorcycle. The father and the mother used different types of transport, the father and the daughter used the same type of transport, and the mother and the son used different types of transport. Which one of them did not use the bicycle?",
+    options: {
+      a: "Mother",
+      b: "Son",
+      c: "Daughter",
+      d: "Father",
+    },
+  },
+  {
+    id: "question23",
+    text: "Q23) In a certain code language, EIGHT is written as TGFHE. How will SEVEN be written in that language?",
+    options: {
+      a: "NEVES",
+      b: "NCTCS",
+      c: "NDUDS",
+      d: "NFWFS",
+    },
+  },
+  {
+    id: "question24",
+    text: `Q24) The following table contains data about the income and expense structure of a family during the period 2015-2018.
+------------------------------------------------------------------------------------
+                          INCOME AND EXPENSES STRUCTURE
+------------------------------------------------------------------------------------
+       FATHER's     MOTHER's     HOUSEHOLD     DAUGHTER's     FOOD          CAR
+        INCOME       INCOME      EXPENSE's     EDUCATION    EXPENSE's     EXPENSE's
+------------------------------------------------------------------------------------
+2015   $36000       $35000        $15600         $32000       $8500        $6300
+2016   $38000       $34000        $16000         $33000       $8900        $6500
+2017   $41000       $40000        $17000         $34000       $9100        $6400
+2018   $44000       $41000        $17200         $34000       $9200        $6700
+------------------------------------------------------------------------------------
+Find the difference between the total expense incurred in the years 2016 and 2017 and the total expense incurred in the years 2015 and 2018.`,
+    options: {
+      a: "$1,400",
+      b: "$1,800",
+      c: "$1,600",
+      d: "$2,000",
+    },
+  },
+  {
+    id: "question25",
+    text: "Q25) Derek bought a recliner and spent $50 on its repair. He later sold it to Richard and made a 30% profit on the whole transaction. Richard further sold it to Daniel for $572 and made a 10% profit. How much did Derek gain from Richard?",
+    options: {
+      a: "$110",
+      b: "$120",
+      c: "$130",
+      d: "$140",
+    },
+  },
+  {
+    id: "question26",
+    text: "Q26) A man completes his journey in 11 hours 30 minutes, partially by train and partially by car. If the speed of the train and the car are 65 miles per hour and 50 miles per hour, respectively, and the distance traveled by car is 275 miles, What would be the time taken to complete the entire journey by car?",
+    options: {
+      a: "13 hours 18 minutes",
+      b: "13 hours 24 minutes",
+      c: "13 hours 30 minutes",
+      d: "13 hours 36 minutes",
+    },
+  },
+  {
+    id: "question27",
+    text: "Q27) Study the following line graph and answer the questions given below. (Line graph not provided)",
+    options: {
+      a: "Nearly 3%",
+      b: "Nearly 4%",
+      c: "Nearly 5%",
+      d: "Nearly 6%",
+    },
+  },
+  {
+    id: "question28",
+    text: `Q28) Study the following chart carefully and answer the questions given below: (Chart not provided)
+The production cost of a ton of sugar is $1,000 and that of cotton is $800 for company A. If sugar is sold at $1,340 per ton and cotton at $1,000 per ton, what is the profit/loss percentage for company A if it is assumed that the unsold part is wasted?`,
+    options: {
+      a: "12.5%",
+      b: "5%",
+      c: "7.5%",
+      d: "10%",
+    },
+  },
 ];
 
 export const correctAnswers = {
@@ -237,4 +348,12 @@ export const correctAnswers = {
   question17: "not answered yet",
   question18: "not answered yet",
   question19: "not answered yet",
+  question20: "not answered yet",
+  question22: "not answered yet",
+  question23: "not answered yet",
+  question24: "not answered yet",
+  question25: "not answered yet",
+  question26: "not answered yet",
+  question27: "not answered yet",
+  question28: "not answered yet",
 };
