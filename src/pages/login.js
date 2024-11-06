@@ -99,8 +99,7 @@ export default function Login() {
               maxWidth: "280px",
             }}
           >
-            Sign in with your IIIT-BH institutional email to access interview
-            experiences
+            Sign in with your IIIT-BH institutional email to access the portal
           </p>
         </div>
 
