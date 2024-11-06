@@ -1,5 +1,7 @@
 ## Interview Experience portal of IIIT-Bh
 
+![image](https://github.com/user-attachments/assets/76ca3ca2-a6af-4288-b9b2-f1078463b94f)
+
 ![image](https://github.com/user-attachments/assets/7849d9a8-2fdb-4c42-9e1f-af1bf9abc5fd)
 
 **Google SEO Score of the website**: 100 [https://www.seoreviewtools.com/]
