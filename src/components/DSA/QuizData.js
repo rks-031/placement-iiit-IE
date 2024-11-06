@@ -487,7 +487,7 @@ printf("%d %d", var1, var2);
   },
   {
     id: "question39",
-    text:`Q39.The following C function takes a simply-linked list as input argument. It modifies the list by moving the last element to the front of the list and returns the modified list. Some part of the code is left blank. Choose the correct alternative to be added after the while loop.
+    text: `Q39.The following C function takes a simply-linked list as input argument. It modifies the list by moving the last element to the front of the list and returns the modified list. Some part of the code is left blank. Choose the correct alternative to be added after the while loop.
 
 typedef struct node				
 {
@@ -800,14 +800,14 @@ boolean TestFunction(int n){
 }
 `,
     options: {
-        a: "1",
-        b: "N",
-        c: "log N",
-        d: "√n"
+      a: "1",
+      b: "N",
+      c: "log N",
+      d: "√n"
     }
-},
+  },
 
-{
+  {
     id: "question59",
     text: `Q59. Consider a hash table with hash function h(k) = k mod 10. It uses linear probing as collision resolution technique. Suppose the length of the table is 15 and 26, 22, 24, 32, 33, 23 are inserted in the empty table in the following manner:
 
@@ -822,46 +822,46 @@ key-value
 What is the correct order in which the values could have been inserted?
 `,
     options: {
-        a: "22, 33, 32, 23, 26, 24",
-        b: "32, 23, 22, 33, 26, 24",
-        c: "26, 24, 22, 33, 32, 23",
-        d: "22, 32, 26, 24, 23, 33"
+      a: "22, 33, 32, 23, 26, 24",
+      b: "32, 23, 22, 33, 26, 24",
+      c: "26, 24, 22, 33, 32, 23",
+      d: "22, 32, 26, 24, 23, 33"
     }
-},
-{
+  },
+  {
     id: "question60",
     text: `Q60. Which algorithm uses divide and conquer technique to sort elements in increasing or decreasing order?
 `,
     options: {
-        a: "Merge sort",
-        b: "Quick sort",
-        c: "Selection sort",
-        d: "Both merge and quick sort"
+      a: "Merge sort",
+      b: "Quick sort",
+      c: "Selection sort",
+      d: "Both merge and quick sort"
     }
-},
-{
+  },
+  {
     id: "question61",
     text: `Q61. Assuming f(n) as a function that returns the factorial of a number n, if f(n) is implemented tail recursively and the compiler is capable of optimizing tail recursion, what would be the maximum depth of the call stack, at any given time, created by the call f(10)?
 `,
     options: {
-        a: "10",
-        b: "11",
-        c: "1",
-        d: "2"
+      a: "10",
+      b: "11",
+      c: "1",
+      d: "2"
     }
-},
-{
+  },
+  {
     id: "question62",
     text: `Q62. What is the correct way to find a value in a complete binary search tree?
 `,
     options: {
-        a: "First compare the key with root node, if equal then return the root node. Else, if key is greater than the root node's key, recursive call for right subtree of tree node. And if key is lesser than the root node's key, recursive call for lesser subtree of tree node.",
-        b: "First compare the key with root node, if equal then return the root node. Else, if key is lesser than the root node's key, recursive call for right subtree of tree node. And if key is greater than the root node's key, recursive call for lesser subtree of tree node.",
-        c: "Traverse and compare all the keys one by one, starting from the left most node's key of the last level of the tree. If equal then return the node.",
-        d: "Traverse and compare all the keys one by one, starting from the node's key. If equal then return the node."
+      a: "First compare the key with root node, if equal then return the root node. Else, if key is greater than the root node's key, recursive call for right subtree of tree node. And if key is lesser than the root node's key, recursive call for lesser subtree of tree node.",
+      b: "First compare the key with root node, if equal then return the root node. Else, if key is lesser than the root node's key, recursive call for right subtree of tree node. And if key is greater than the root node's key, recursive call for lesser subtree of tree node.",
+      c: "Traverse and compare all the keys one by one, starting from the left most node's key of the last level of the tree. If equal then return the node.",
+      d: "Traverse and compare all the keys one by one, starting from the node's key. If equal then return the node."
     }
-},
-{
+  },
+  {
     id: "question63",
     text: `Q63. Stack is a distinct type of list where the operations are performed at one end of the stack.
 Determine:
@@ -869,55 +869,55 @@ Determine:
 2) Which method cannot be performed in stack?
 `,
     options: {
-        a: "1) Continuous allocation 2) Accessing the top element in stack",
-        b: "1) Dynamic distribution 2) Removing an element from the stack",
-        c: "1) Last in first out 2) Replace an element in stack",
-        d: "1) First in first out 2) Insert an element in stack"
+      a: "1) Continuous allocation 2) Accessing the top element in stack",
+      b: "1) Dynamic distribution 2) Removing an element from the stack",
+      c: "1) Last in first out 2) Replace an element in stack",
+      d: "1) First in first out 2) Insert an element in stack"
     }
-},
-{
+  },
+  {
     id: "question64",
     text: `Q64. Consider an array X[10]={24,2,9,3,7,8,22,16,12,10}. To sort the array in ascending order, quick sort divide and conquer algorithm has been used. The last element of the array is used as the pivot. Select the correct output of each pass of the algorithm.`,
     options: {
-        a: `1 {2,9,3,7,8,10,22,12,16,24}
+      a: `1 {2,9,3,7,8,10,22,12,16,24}
          2 {2,3,7,8,9,10,22,12,16,24}
          3 {2,3,7,8,9,10,12,16,22,24}
          4 {2,3,7,8,9,10,12,16,22,24}`,
-        b: `1 {10,2,9,3,7,8,22,12,16,24}
+      b: `1 {10,2,9,3,7,8,22,12,16,24}
         2 {24,2,3,7,8,9,10,22,12,16}
         3 {2,3,7,8,9,10,12,16,22,24}
         4 {2,3,7,8,9,10,12,16,22.24}`,
-        c: `1 {2,9,3,7,8,22,12,16,24,10} 
+      c: `1 {2,9,3,7,8,22,12,16,24,10} 
         2 {2,3,7,8,9,22,12,16,24,10}
         3 {2,3,7,8,9,12,16,22,24,10)
         4 {2,3,7,8,9,10,12,16,22,24}`,
-        d: `1 {2,3,7,8,9,10,22,12,16,24}
+      d: `1 {2,3,7,8,9,10,22,12,16,24}
         2.{2,3,7,8,9,10,22,12,16,24}
         3 {2,3,7,8,9,10,12,16,22,24}
         4 {2,3,7,8,9,10,12,16,22,24}`
     }
-},
-{
+  },
+  {
     id: "question65",
     text: `Q65. Consider a tree of height 4. You need to delete a node from level 2. The node to be deleted has two children. Which approach should be used to delete it?`,
     options: {
-        a: "Simply remove from the tree.",
-        b: "Find inorder successor of the node. Copy contents of the inorder successor to the node and delete the inorder successor.",
-        c: "Find postorder successor of the node. Copy contents of the postorder successor to the node and delete the postorder successor.",
-        d: "Copy the child to the node and delete the child."
+      a: "Simply remove from the tree.",
+      b: "Find inorder successor of the node. Copy contents of the inorder successor to the node and delete the inorder successor.",
+      c: "Find postorder successor of the node. Copy contents of the postorder successor to the node and delete the postorder successor.",
+      d: "Copy the child to the node and delete the child."
     }
-},
-{
+  },
+  {
     id: "question66",
     text: `Q66. In a program, the input of items is in a sorted array {8,7,5,4,2}. New numbers are coming randomly and getting added to the array such as the number 9 got added leading to - {8,7,54,2,9}. The new array is nearly sorted but the program needs the array to be in descending order completely. To reduce the time complexity of the algorithm, which sorting method should be used in this case?`,
     options: {
-        a: "Bubble sort",
-        b: "Insertion Sort",
-        c: "Merge sort",
-        d: "Bucket sort"
+      a: "Bubble sort",
+      b: "Insertion Sort",
+      c: "Merge sort",
+      d: "Bucket sort"
     }
-},
-{
+  },
+  {
     id: "question67",
     text: `Q67. What will be the output of the following program?
 
@@ -948,13 +948,13 @@ class Main {
 }
 `,
     options: {
-        a: "1 2 1 3 4",
-        b: "0 0 1 2 4",
-        c: "0 0 1 3 4",
-        d: "1 2 3 4 1"
+      a: "1 2 1 3 4",
+      b: "0 0 1 2 4",
+      c: "0 0 1 3 4",
+      d: "1 2 3 4 1"
     }
-},
-{
+  },
+  {
     id: "question68",
     text: `Q68. The following code is used to create a heap from any provided array:
 
@@ -991,13 +991,13 @@ Which array will generate a heap as shown below after passing through this code?
             26    41   58     31
 `,
     options: {
-        a: "26,41,53,97,31,58,59",
-        b: "26,31,41,53,58,59,97",
-        c: "97,53,59,26,41,58,31",
-        d: "26,53,41,97,58,59,31"
+      a: "26,41,53,97,31,58,59",
+      b: "26,31,41,53,58,59,97",
+      c: "97,53,59,26,41,58,31",
+      d: "26,53,41,97,58,59,31"
     }
-},
-{
+  },
+  {
     id: "question69",
     text: `Q69. Choose the correct diagram from the given options that shows the Max Heap.
 
@@ -1013,7 +1013,7 @@ Which array will generate a heap as shown below after passing through this code?
 
 `,
     options: {
-        a: `                  95
+      a: `                  95
                      .      .
                     .         .
                    45         63 
@@ -1023,7 +1023,7 @@ Which array will generate a heap as shown below after passing through this code?
                .  .
               .    .
              15     4`,
-        b: `                  63
+      b: `                  63
                      .      .
                     .         .
                    45         95 
@@ -1033,7 +1033,7 @@ Which array will generate a heap as shown below after passing through this code?
                .  .
               .    .
              15     10`,
-        c: `                  95
+      c: `                  95
                      .      .
                     .         .
                    63         52 
@@ -1043,7 +1043,7 @@ Which array will generate a heap as shown below after passing through this code?
                .  .
               .    .
              10     4`,
-        d: `                  63
+      d: `                  63
                      .      .
                     .         .
                    45         95 
@@ -1054,11 +1054,100 @@ Which array will generate a heap as shown below after passing through this code?
               .    .
              25     4`
     }
+  }, {
+    id: "question69",
+    text: "Q69) Which option helps in creating a repetitive action?",
+    options: {
+      a: "Debugging",
+      b: "Output",
+      c: "Iterating",
+      d: "Branching",
+    },
+  },
+  {
+    id: "question70",
+    text: "Q70) While implementing functionality that contains logic with strings, you notice that your strings are all in one row. Hence, you need to work with a carriage return. Which escape sequence represents carriage return?",
+    options: {
+      a: "\\r",
+      b: "n",
+      c: "\\n\\r",
+      d: "\\c",
+    },
+  },
+  {
+    id: "question71",
+    text: `Q71) What will be the output of the following code snippet?
+Line 0:public int getSum(int[] a){
+Line 1: int result;
+Line 2: for element in a
 }
-
-
-  
-  
+Line 3: result += a;
+}
+Line 4: return result;
+}`,
+    options: {
+      a: "The sum of all given elements in the array",
+      b: "A syntax error",
+      c: "An error at line 1",
+      d: "An error at line 4",
+    },
+  },
+  {
+    id: "question72",
+    text: "Q72) Martin is creating a data structure and wants two stacks in one array. How should he design these stacks to work efficiently?",
+    options: {
+      a: "Stack 1 and Stack 2 elements should be pushed from the array's starting index. Another array should be created to identify the corresponding stack of that element.",
+      b: "Stack 1 should be assigned to half of the array, and Stack 2 should be assigned to the other half. Hence, their work will be independent of each other.",
+      c: "Stack 1 should start pushing the elements from the array's starting index and Stack 2 should start pushing the elements from the array's last index. Elements should be pushed into the array until they do not overlap.",
+      d: "We cannot design a single array to work as two stacks.",
+    },
+  },
+  {
+    id: "question73",
+    text: "Q73) John has a network flow graph where he has to analyse the shorter-length paths in the network. As the network is too dense, he decides to use some program by which the shortest path can be found. However, there are some edges with negative weights in the graph. Due to these edges, the algorithm cannot find the shortest path. What should John do to avoid this problem?",
+    options: {
+      a: "Use the Bellman-Ford algorithm.",
+      b: "Use Dijkstra's algorithm.",
+      c: "Use the Pruter code.",
+      d: "Use Kirchhoff's theorem.",
+    },
+  },
+  {
+    id: "question74",
+    text: `Q74) What will be the output of the following code snippet?
+int a=5;
+int b=1;
+int c=0;
+c=a++;
+c+=b;
+print("result =" + c)`,
+    options: {
+      a: "7",
+      b: "Error",
+      c: "6",
+      d: "5",
+    },
+  },
+  {
+    id: "question75",
+    text: "Q75) Using arrays is causing certain issues, so you decide to use an STL container 'vector'. What is the advantage of a vector against an array?",
+    options: {
+      a: "A vector is memory efficient, while an array occupies more memory than a vector.",
+      b: "Vectors are index-based structures.",
+      c: "Access time is constant in vectors.",
+      d: "Vectors are more efficient in insert, delete and update operations than arrays.",
+    },
+  },
+  {
+    id: "question76",
+    text: "Q76) Freida has given Alex a set of N-line segments and has asked him to find whether any of the two lines are intersecting or not. Which algorithm will Alex use to perform this operation?",
+    options: {
+      a: "Convex hull algorithm",
+      b: "Sweep line algorithm",
+      c: "Klee's algorithm",
+      d: "Naive algorithm",
+    },
+  },
 ];
 
 export const correctAnswers = {
@@ -1131,4 +1220,11 @@ export const correctAnswers = {
   question67: "c",
   question68: "c",
   question69: "c",
+  question70: "to be Found",
+  question71: "to be Found",
+  question72: "to be Found",
+  question73: "to be Found",
+  question74: "to be Found",
+  question75: "to be Found",
+  question76: "to be Found",
 };
