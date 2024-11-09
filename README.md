@@ -1,5 +1,7 @@
 ## Interview Experience portal of IIIT-Bh
 
+This portal combines interview experiences, online assessment practice, placement study resources, resume writing guidance, cover letter templates, and referral formats, all designed to support comprehensive career preparation.
+
 ![image](https://github.com/user-attachments/assets/0e85f698-ccd1-470c-8810-94e8a76af342)
 
 ![image](https://github.com/user-attachments/assets/7849d9a8-2fdb-4c42-9e1f-af1bf9abc5fd)
