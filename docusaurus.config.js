@@ -43,6 +43,10 @@ const config = {
         theme: {
           customCss: "./src/css/custom.css",
         },
+        gtag: {
+          trackingID: 'G-PJL1R0ZCNB', // Google Analytics Measurement ID
+          anonymizeIP: true
+        },
       }),
     ],
   ],
