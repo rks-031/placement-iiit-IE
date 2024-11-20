@@ -30,8 +30,8 @@
     - String Factorization:  
         - Problem: Check if string `S2` is a factor of `S1`.  
         - Example: `S1 = 'absabsabsabs'`, `S2 = 'abs'`, result: `S2` is a factor of `S1`.  
-    - Follow-up: Given `S1 = 'abdefabdefabdef'` and `S2 = 'adf'`, find the minimum number of insertions, deletions, or updates required to make `S2` a factor of `S1`.  
-    - Solution: Used sliding window with hashing.
+        - Follow-up: Given `S1 = 'abdefabdefabdef'` and `S2 = 'adf'`, find the minimum number of insertions, deletions, or updates required to make `S2` a factor of `S1`.  
+        - Solution: Used sliding window with hashing.
 
 - **DBMS (SQL Query)**
     - Join two tables and find the Nth highest salary of an employee.
