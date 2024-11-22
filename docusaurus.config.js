@@ -113,8 +113,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Placement Cell | IIIT Bhubaneswar`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        theme: prismThemes.nightOwl, // or prismThemes.github
+        darkTheme: prismThemes.oceanicNext, // or prismThemes.dracula
       },
       colorMode: {
         defaultMode: "dark",

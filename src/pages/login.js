@@ -13,14 +13,17 @@ export default function Login() {
   const handleGoogleLogin = async () => {
     try {
       const provider = new GoogleAuthProvider();
+      // Restrict to iiit-bh.ac.in domain
       provider.setCustomParameters({
-        hd: "iiit-bh.ac.in",
+        hd: "iiit-bh.ac.in", //hosted domain
         prompt: "select_account",
       });
 
+      // attempt login
       const result = await signInWithPopup(auth, provider);
       const email = result.user.email;
 
+      // Double check email domain
       if (!email.endsWith("@iiit-bh.ac.in")) {
         await auth.signOut();
         setError("Please use your IIIT Bhubaneswar email address to login");
