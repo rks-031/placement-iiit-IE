@@ -1,6 +1,5 @@
 # Tiger Analytics Interview Experience
 
-**Role**: <br/>
 **Article by**: Paramjit Singh<br/>
 
 ## Interview Process
