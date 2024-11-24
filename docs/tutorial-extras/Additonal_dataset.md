@@ -18,4 +18,3 @@
 | Zscaler         | [Link](https://drive.google.com/drive/folders/1FwGS23aUTJ7KB1WqQKQgRI8k8q_qyjeb?usp=sharing)    |
 | DeShaw          | [Link](https://drive.google.com/drive/folders/1NnhWWjnom6p8saQaASMtNk_QOnI55WEM?usp=drive_link) |
 | TigerAnalytics  | [Link](https://drive.google.com/drive/folders/1MdaBD-jGfCRQMScSDlcWX_hxxRxasnBM?usp=drive_link) |
-| Zscaler         | [Link](https://drive.google.com/drive/folders/1FwGS23aUTJ7KB1WqQKQgRI8k8q_qyjeb?usp=drive_link) |
