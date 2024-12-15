@@ -81,6 +81,10 @@ const config = {
                 label: "College Website",
                 to: "https://www.iiit-bh.ac.in/",
               },
+              {
+                label: "Placement Brochure",
+                to: "https://drive.google.com/file/d/1YiPmpcUr667m8cdnSxsClBUR57iLgUv7/view?usp=sharing",
+              },
             ],
           },
           {
@@ -101,15 +105,28 @@ const config = {
             ],
           },
           {
-            title: "More",
+            title: "Site Maintainers",
             items: [
               {
-                label: "Placement Brochure",
-                href: "https://drive.google.com/file/d/1YiPmpcUr667m8cdnSxsClBUR57iLgUv7/view?usp=sharing",
+                label: "Rajnish Kumar Singh",
+                href: "https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/",
+              },
+              {
+                label: "Md. Haris",
+                href: "https://www.linkedin.com/in/muhammad-haris-860089265/",
+              },
+              {
+                label: "Krishna Kalra",
+                href: "https://www.linkedin.com/in/krishnakalra/",
+              },
+              {
+                label: "Souharda Roy",
+                href: "https://www.linkedin.com/in/souharda-roy3301/",
               },
             ],
           },
         ],
+        
         copyright: `Copyright © ${new Date().getFullYear()} Placement Cell | IIIT Bhubaneswar`,
       },
       prism: {
