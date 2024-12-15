@@ -8,6 +8,8 @@ sidebar_position: 3
 
 - Maintaining a **GPA of 8 or above** is advantageous.
 - It reflects consistent academic performance and can be a criterion for some companies' initial screening processes.
+- You may use this resource to help you with your college academics and semester exams: <br/>
+[RKS-personal-academic resources](https://drive.google.com/drive/folders/1B2lGhjPYmCXMuV-6yY1ePa4pZOivmx9i?usp=sharing)
 
 ### 2. Master the Core Subjects
 

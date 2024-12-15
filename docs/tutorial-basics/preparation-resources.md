@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Resources
+# Resources for CS fundamentals 
 
 1. Operating Systems
 
