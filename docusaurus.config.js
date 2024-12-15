@@ -92,15 +92,15 @@ const config = {
             items: [
               {
                 label: "Instagram",
-                href: "https://www.instagram.com/iiitbhubaneswar",
+                to: "https://www.instagram.com/iiitbhubaneswar",
               },
               {
                 label: "LinkedIn",
-                href: "https://www.linkedin.com/school/international-institute-of-information-technology-bhubaneswar/",
+                to: "https://www.linkedin.com/school/international-institute-of-information-technology-bhubaneswar/",
               },
               {
                 label: "Twitter",
-                href: "https://x.com/BhubaneswarIiit",
+                to: "https://x.com/BhubaneswarIiit",
               },
             ],
           },
@@ -109,19 +109,19 @@ const config = {
             items: [
               {
                 label: "Rajnish Kumar Singh",
-                href: "https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/",
+                to: "https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b/",
               },
               {
                 label: "Md. Haris",
-                href: "https://www.linkedin.com/in/muhammad-haris-860089265/",
+                to: "https://www.linkedin.com/in/muhammad-haris-860089265/",
               },
               {
                 label: "Krishna Kalra",
-                href: "https://www.linkedin.com/in/krishnakalra/",
+                to: "https://www.linkedin.com/in/krishnakalra/",
               },
               {
                 label: "Souharda Roy",
-                href: "https://www.linkedin.com/in/souharda-roy3301/",
+                to: "https://www.linkedin.com/in/souharda-roy3301/",
               },
             ],
           },
