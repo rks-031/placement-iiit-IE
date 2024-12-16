@@ -18,3 +18,5 @@
 | Zscaler         | [Link](https://drive.google.com/drive/folders/1FwGS23aUTJ7KB1WqQKQgRI8k8q_qyjeb?usp=sharing)    |
 | DeShaw          | [Link](https://drive.google.com/drive/folders/1NnhWWjnom6p8saQaASMtNk_QOnI55WEM?usp=drive_link) |
 | TigerAnalytics  | [Link](https://drive.google.com/drive/folders/1MdaBD-jGfCRQMScSDlcWX_hxxRxasnBM?usp=drive_link) |
+| Dell ( 3rd Year Internship ) | [Link](https://drive.google.com/drive/folders/1s7nYtczxnKDgEU74Wvf0sk8O8dtPNcXU?usp=sharing) |
+| Apmosys | [Link](https://drive.google.com/drive/folders/1egRDeSEwxj8Qcglx9Fu_fwQhqNC_kFg-?usp=sharing) |
