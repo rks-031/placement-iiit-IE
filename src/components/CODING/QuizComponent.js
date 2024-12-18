@@ -60,11 +60,11 @@ const QuizComponent = () => {
             ))}
           </div>
 
-          <button onClick={() => handleSubmit(question.id)}>
+          {/* <button onClick={() => handleSubmit(question.id)}>
             Check Answer
           </button>
 
-          {feedback[question.id] && (
+          feedback[question.id] && (
             <p
               className="feedback"
               style={{
@@ -75,7 +75,9 @@ const QuizComponent = () => {
             >
               {feedback[question.id]}
             </p>
-          )}
+          ) */}
+          
+
         </div>
       ))}
     </div>
