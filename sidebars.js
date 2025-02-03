@@ -22,6 +22,18 @@ const sidebars = {
       type: "category",
       label: "Practice for your next OA",
       items: [
+        {
+          type:"category",
+          label:"Data Structure and Algorithm",
+          items:[
+            "practice-for-OA/DSA/ArraysAndMap",
+            "practice-for-OA/DSA/LinkedList",
+            "practice-for-OA/DSA/StackAndQueues",
+            "practice-for-OA/DSA/Strings",
+            "practice-for-OA/DSA/Trees",
+            "practice-for-OA/DSA/Others",
+          ]
+        },
         "practice-for-OA/DSA",
         "practice-for-OA/OOPs",
         "practice-for-OA/SQL",
@@ -30,7 +42,7 @@ const sidebars = {
         "practice-for-OA/CODING",
       ],
     },
-  ],
+  ]
 };
 
 export default sidebars;
