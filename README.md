@@ -31,7 +31,6 @@ This portal combines interview experiences, online assessment practice, placemen
 ```
 
 ## Project Maintainers
-
 `Rajnish Kumar Singh` <br/>
 `Md. Haris` <br/>
 `Krishna Kalra` <br/>
