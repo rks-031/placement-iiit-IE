@@ -1,148 +1,87 @@
 # Informatica Interview Experience
 
-**Roles**: Full Stack Developer | Product Specialization | Automation Engineer<br/>
-**Article by**: Riddhi Agrawal
+## INTERVIEW PROCESS
 
-## Interview Process
-
-### Round 1: Online Test
-
-- **Format**: Multiple-choice Questions
-- **Topics**: Java Programming, DSA, Aptitude, and SQL
-- **Duration**: 60 minutes
+**Company Name:** Informatica  
+**Job Description:** Associate Software Engineer  
 
 ---
 
-### Round 2: Technical Interview
-
-1. **Projects**:
-
-   - Discussed previous projects and asked to write functionality used in the project.
-
-2. **DSA**:
-
-   - Sorting a linked list.
-   - Solving the linked list sorting problem with an additional constraint for circular linked lists.
-
-3. **Array Problem**:
-
-   - Find the median of two sorted arrays in `O(1)` space complexity.
-
-4. **OOPs Concepts**:
-
-   - Questions covering the basics of Object-Oriented Programming.
-
-5. **React**:
-   - Basic React questions, focusing on hooks.
+### **Online Assessment Round**
+- **Duration:** 1-2 hours  
+- **Content:**  
+  - **MCQ Questions:**  
+    - 20 Java  
+    - 20 DSA  
+    - 10 Aptitude  
+    - 10 CS Fundamentals  
+  - **Mode:** Online with Active Invigilation by Informatica Employees  
 
 ---
 
-### Round 3: Technical Interview
-
-1. **Binary Tree**:
-
-   - Finding the height of a binary tree.
-
-2. **Stack**:
-
-   - Implementing a stack using a linked list.
-
-3. **DP Algorithm**:
-
-   - Minimum coins required to make a target value.
-
-4. **Pointer Concepts**:
-
-   - Asked questions related to dangling pointers.
-
-5. **Hash Map**:
-
-   - Discussion on hash maps and related questions.
-
-6. **React**:
-   - React questions focusing on hooks, prop drilling, and explaining unidirectional data flow in React.
+### **Technical Round 1 - Online**
+- **DSA Questions:**  
+  1. Leetcode Medium on LinkedList  
+  2. Leetcode Hard - Graph  
+  3. Leetcode Hard - Prefix Sum  
+- **JavaScript Question:**  
+  - Hard question based on `reduce` in JS  
 
 ---
 
-### Round 4: Technical Interview
-
-1. **Singleton Class**:
-
-   - What is a Singleton class? Wrote code for Singleton class with a private constructor.
-
-2. **Deadlock**:
-
-   - Write a program to simulate a deadlock situation.
-
-3. **Stack Problems**:
-
-   - Sort a stack using recursion.
-   - Delete the middle element of a stack using recursion.
-
-4. **Parentheses Problem**:
-
-   - Find the maximum length of valid parentheses from a given string.
-
-5. **Sequence Problem**:
-   - Two numerical sequences were given, and the task was to find the missing one.
+### **Technical Round 2 - Online**
+- **DSA Questions:**  
+  - Leetcode Medium - Hard (Stacks, Trees, Graphs)  
+- **React Questions:**  
+  - 3-4 scenario-based React questions  
+- **C++ Core Concepts Questions**  
+- **Resume-based Questions**  
 
 ---
 
-### Round 5: Technical Interview
-
-1. **Virtual Functions**:
-
-   - Real-life use cases of virtual functions.
-
-2. **Pure Virtual Class**:
-
-   - What is a pure virtual class? What guarantees does it provide?
-
-3. **Hash Map**:
-
-   - Implementation of a hash map and why the search time complexity is `O(1)`.
-
-4. **OOPs Concepts**:
-
-   - More in-depth questions on error handling and other conceptual aspects of OOP.
-
-5. **IPC and Sockets**:
-   - Questions on Inter-Process Communication (IPC) from Operating Systems and Sockets from Computer Networks.
+### **Technical Round 3 - Pen and Paper**
+- One Leetcode Hard question to be solved on paper first and then coded live on the interviewer's laptop  
+- A puzzle-type question to analyze problem-solving skills  
 
 ---
 
-### Round 6: HR Round
-
-1. **Introduction**:
-
-   - General introduction.
-
-2. **Achievement**:
-
-   - Discussed the biggest personal achievement.
-
-3. **Improvements**:
-
-   - Asked about three areas for self-improvement in the future.
-
-4. **Previous Interview Experience**:
-   - Asked about previous interview experiences.
+### **Technical Round 4 - Face to Face**
+- **DSA Questions:**  
+  - 3-4 Leetcode Medium-Hard questions  
+- **Design Pattern Questions:**  
+  - Singleton Design Pattern coding in C++/Java  
+- **Multithreading & Thread Safety:**  
+  - Coding Thread Safety / Multithreading in C++/Java (`ReentrantLock`, `Condition`, `Semaphore`)  
+- **Puzzles:**  
+  - 2-3 puzzles  
+- **Projects Discussion:**  
+  - Asked about Design Patterns used  
 
 ---
 
-### Round 7: Tech-Head Round
+### **Technical Round 5 - Techno-Managerial Round**
+- In-depth working of **data structures**, their **time and space complexities**  
+- Discussion on **AVL Trees, Red-Black Trees**  
+- **OOP Concepts** in C++/Java  
+- **Resume Deep Dive:** Internships and Projects  
 
-1. **Introduction**:
+---
 
-   - General introduction.
+### **Technical Round 6 - Vice President Round / Stress Testing Round**
+- **Stress Testing:**  
+  - Extremely difficult & almost impossible questions  
+- **Puzzles:**  
+  - 2-3 hardcore puzzles  
+- **Programming Question**  
+- **Resume Discussion:**  
+  - Discussion on **"A Day in the Life"** scenario  
 
-2. **Matrix Problem**:
+---
 
-   - Transpose a matrix without using extra space or a swap function.
+### **HR Round**
+- **Introduction**  
+- **Managerial Questions**  
+- **Compensation and Role-Specific Discussion**  
+- **Future Goals Discussion**  
 
-3. **String Sorting**:
-
-   - Sort a vector of strings according to the middle character of the string.
-
-4. **Puzzles**:
-   - Two puzzles were asked.
+---
