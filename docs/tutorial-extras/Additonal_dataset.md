@@ -19,6 +19,7 @@
 | Mindfire                             | [Link](https://drive.google.com/drive/folders/1NqlWc-JzDPfJhERg5zMRGgMTkvE6baQb?usp=sharing)   |
 | Neophyte                             | [Link](https://drive.google.com/drive/folders/13UgJZSlgvCFdzKttBPlnZ1r1D5QDVRAG?usp=sharing)   |
 | Oracle                               | [Link](https://drive.google.com/drive/folders/1Zcyb_05V3ALPdUK2OlSCQCxuDVUqQehF?usp=sharing)   |
+| PixelCompute                         | [Link](https://drive.google.com/drive/folders/1pTRWqCS5AvD00Iak4_2OacQsE_ZEQFU0?usp=sharing)   |
 | Quantiphi                            | [Link](https://drive.google.com/drive/folders/165LdxOweqmGEyBDEw7gTqh8oCSpK143N?usp=sharing)   |
 | Quick Sell                           | [Link](https://drive.google.com/drive/folders/1uOe-E5l3fogVdeeLP1feBhnOXKKowuTI?usp=sharing)   |
 | Sapiens                              | [Link](https://drive.google.com/drive/folders/1V8WGgPCrGaRW-y3DmzsiVgMuyiOhH2Lw?usp=sharing)   |
