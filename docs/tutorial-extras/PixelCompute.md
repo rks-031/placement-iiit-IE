@@ -1,7 +1,7 @@
 # PixelCompute Interview Experience
 
 **Role**: Full Stack Developer  
-**Article by**: Santanu Mohapatra
+**Article by**: A Shantanu
 
 ## Interview Process
 
