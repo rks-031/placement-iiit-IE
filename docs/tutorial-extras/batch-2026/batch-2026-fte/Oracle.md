@@ -1,7 +1,7 @@
 # Oracle Interview Experience
 
 **Company Name**: Oracle GIU  
-**Article by**: Chirantan Beura
+**Article by**: Chirantan Beura                       
 **Job Description**: Associate Software Developer
 
 ---
