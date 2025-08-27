@@ -1,4 +1,4 @@
-# Oracle GIU — Interview Experience
+# Oracle Interview Experience
 
 **Company Name**: Oracle GIU  
 **Article by**: Chirantan Beura
@@ -6,7 +6,7 @@
 
 ---
 
-## INTERVIEW PROCESS:
+## Interview Process
 
 **Online Assessment Round :**  
 	**Duration :** 95 minutes  
@@ -18,7 +18,7 @@
 
 ---
 
-## Technical Round 1 :
+## Technical Round 1
 
 I had industry-level projects on Generative AI and Machine Learning, which are not very common among college students. The interviewer initially took about 15 minutes to research some of the terms from my projects and asked me to wait outside. This made me a bit nervous, and he suspected that I had rote-learned my projects without proper understanding.  
 To test me further, he asked me to explain my project in Odia, Hindi, and English. Since his domain was Web Development, he tried to undermine my work and compared my ML projects with simpler web development implementations. The round turned out to be quite stressful, as he deep-dived into my projects and wanted to know their real-life implementation.  
@@ -27,12 +27,12 @@ Afterward, he shifted to core concepts:
 Asked me to explain the 4 pillars of OOPs.  
 Asked for real-life examples of different types of inheritance (like grad student, undergrad student)  
 Asked about the data structures I had worked with and their real-world implementations (e.g., Linked List, Doubly Linked List, Queue, Array, etc.).  
-**My Experience**  
+### Personal Experience  
 The interviewer stressed me a lot and created an unpleasant atmosphere by questioning the relevance of my projects. This made me doubt whether I would get selected for the next round. However, after a few minutes, I was called in for Round 2.
 
 ---
 
-## Technical Round 2 :
+## Technical Round 2
 
 I began this round with a brief introduction, highlighting my internship at ISRO. The interviewer was very interested and impressed with my work there, which set a positive tone for the discussion.  
 She then asked me about my experience in Round 1, before diving deep into my projects. I explained the practical use cases, their industrial applications, and how they could be scaled. She further asked me to draw the HLD (High-Level Design) of my project and walk her through the workflow of the model.  
@@ -51,12 +51,12 @@ SDLC (Software Development Life Cycle).
 Waterfall Model.  
 Agile Model.  
 Finally, the interview wrapped up.  
-**My Experience**  
+### Personal Experience  
 The interviewer seemed quite impressed with my performance. When I asked for feedback, she told me that I was confident about everything in my resume and that my basic concepts were very clear. Toward the end, we had some light-hearted chit-chat about what I had for breakfast and lunch. She also gave me valuable advice to reduce my speaking speed by half and to practice in front of a mirror for better communication.
 
 ---
 
-## Technical + HR Round:
+## Technical + HR Round
 
 Similar to my first round, the interviewer asked me to wait for about 10 minutes before the interview began.  
 He started with questions about my projects, but his focus was more on the existing models and comparisons of my model with chatgpt, gemini and all. Some of the key questions included:  
@@ -72,7 +72,7 @@ When I requested a general review, he replied:
 
 ---
 
-## ANY EXTRA NOTE YOU WOULD LIKE TO MENTION :
+## Extra Note
 
 Focus on your projects – They should stand out from your batchmates’ work. Try to pick projects that solve real-world problems. A good way to explain them is by saying: “While working on X, I faced this problem, so I built this project to solve it.”  
 Have A-to-Z knowledge of your projects and stay confident while explaining them. You should also be prepared to handle stress and pressure during questioning.  
