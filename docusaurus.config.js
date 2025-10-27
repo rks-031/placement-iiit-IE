@@ -65,7 +65,7 @@ const config = {
         },
         items: [
           {
-            href: "https://iiit-placement-website-v2.vercel.app/placements",
+            href: "https://www.iiit-bh.ac.in/placements/",
             label: "Placement Stats",
             position: "right",
           },
@@ -122,6 +122,10 @@ const config = {
               {
                 label: "Souharda Roy",
                 to: "https://www.linkedin.com/in/souharda-roy3301/",
+              },
+              {
+                label: "Sachin Kumar",
+                to: "https://www.linkedin.com/in/isachin-kumar/",
               },
             ],
           },
