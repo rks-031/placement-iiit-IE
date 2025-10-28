@@ -62,4 +62,5 @@ I wanted to build a portal which must be highly optimized, should be minimalisti
 `Rajnish Kumar Singh` <br/>
 `Md. Haris` <br/>
 `Krishna Kalra` <br/>
-`Souharda Roy`
+`Souharda Roy` <br/>
+`Sachin Kumar`
