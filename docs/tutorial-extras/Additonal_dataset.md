@@ -35,3 +35,4 @@
 | Incture (2026)                        | [Link](https://drive.google.com/drive/folders/1ieNmGvcoku6SzIoscIFLFWvMSasPQIue?usp=sharing)    |
 | Dell (2027)                           | [Link](https://drive.google.com/drive/folders/1rWAgPhCbvHpvxL0Abn7GypDBYEDnjjkL?usp=sharing)    |
 | Paltech (2026)                        | [Link](https://drive.google.com/drive/folders/1pPPVlfjjivr7lgkAXx6T41npNdlnIIxD?usp=sharing)    |
+| MediBuddy (2026)                      | [Link](https://drive.google.com/drive/folders/1Gj4Sb06WIMEVjdB8cU5rtlKfgXw-k8ZJ?usp=sharing)    |
