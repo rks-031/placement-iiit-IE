@@ -1,5 +1,5 @@
 # Media.net Interview Experience  
-
+**Article by**: Swaroop
 ---
 
 ## Round 1: Online Assessment  
