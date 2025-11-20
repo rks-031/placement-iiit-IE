@@ -1,7 +1,6 @@
 # Razorpay Interview Experience  
 
-**Article by:** Debashish Sahoo
-**Company Name:** Razorpay  
+**Article by:** Debashish Sahoo.  
 **Role:** Software Development Engineer (Backend)  
 
 ---
