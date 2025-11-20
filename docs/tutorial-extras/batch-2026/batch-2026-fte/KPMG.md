@@ -1,8 +1,8 @@
 # KPMG Interview Experience  
 
-**Article by:** Sambit Mohapatra
-**Company Name:** KPMG  
-**Job Role:** GenAI Engineer  
+**Article by:** Sambit Mohapatra  
+**Company Name:** KPMG    
+**Job Role:** GenAI Engineer    
   
 
 ---
@@ -78,4 +78,4 @@ Final selection was based solely on performance in the technical interview.
 - Basic awareness and willingness to work with emerging technologies (GenAI, Agentic AI, etc.)  
 
 ---
-[Click to read interview experiences of other successful Incture hires from the 2026 batch](https://drive.google.com/drive/folders/1Taa-ZDs2jHHj8OQfUzpMSULoCVXvhuSo?usp=sharing)
+[Click to read interview experiences of other successful KPMG hires from the 2026 batch](https://drive.google.com/drive/folders/1Taa-ZDs2jHHj8OQfUzpMSULoCVXvhuSo?usp=sharing)
