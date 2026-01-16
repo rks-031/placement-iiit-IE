@@ -37,7 +37,8 @@
 | Paltech (2026)                        | [Link](https://drive.google.com/drive/folders/1pPPVlfjjivr7lgkAXx6T41npNdlnIIxD?usp=sharing)    |
 | MediBuddy (2026)                      | [Link](https://drive.google.com/drive/folders/1Gj4Sb06WIMEVjdB8cU5rtlKfgXw-k8ZJ?usp=sharing)    |
 | Smarbl (2026)                         | [Link](https://drive.google.com/drive/folders/1af6968eG6Dwn6q7l1dVbtDGZ37gMilYx?usp=sharing)    |
-| Razorpay (2026)                       | [Link](https://drive.google.com/drive/folders/1HdpLoIYXjBhNdx7uvB8iVc0EXPoD5NXj?usp=sharing)    |
+| Razorpay (2026)                       | [Link](https://drive.google.com/drive/folders/1HdpLoIYXjBhNdx7uvB8iVc0EXPoD5NXj?usp=sharing)    |.
+| KPMG (2026)                           | [Link](https://drive.google.com/drive/folders/1Taa-ZDs2jHHj8OQfUzpMSULoCVXvhuSo?usp=sharing)    |
 | OpenText (2026)                       | [Link](https://drive.google.com/drive/folders/1wfTt9Dq-5A6k-RMbzV4iW_bPBZEgVmen?usp=sharing)    |
 | VassarLabs (2026)                     | [Link](https://drive.google.com/drive/folders/1Uj4nItHSQx4w5VEMMwMo_sa9NibY75-3?usp=sharing)    |
 | Infosys (2026)                        | [Link](https://drive.google.com/drive/folders/1W-If78es_ohHmt65FDZ8FjCwjwJ40TPZ?usp=sharing)    |
