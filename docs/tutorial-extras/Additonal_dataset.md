@@ -46,3 +46,4 @@
 | AIOrdinate (2026)                     | [Link](https://drive.google.com/drive/folders/1YAXzgEPNY7TCiEi3uP7gZyHXQr_MVBL5?usp=sharing)    |
 | HSBC (2026)                           | [Link](https://drive.google.com/drive/folders/1Od--2y5fsms0H3R23oee_a2hzkRL2nZJ?usp=sharing)    |
 | Mindfire (2026)                       | [Link](https://drive.google.com/drive/folders/1kSUk5hrYco-EIjUBYF_95cwqgbW24P10?usp=sharing)    |
+| Antino (2026)                         | [Link](https://drive.google.com/drive/folders/1TEf14RZsdP8yRmgv5BryKBSrs3XyoNP8?usp=sharing)    |
