@@ -37,7 +37,7 @@
 | Paltech (2026)                        | [Link](https://drive.google.com/drive/folders/1pPPVlfjjivr7lgkAXx6T41npNdlnIIxD?usp=sharing)    |
 | MediBuddy (2026)                      | [Link](https://drive.google.com/drive/folders/1Gj4Sb06WIMEVjdB8cU5rtlKfgXw-k8ZJ?usp=sharing)    |
 | Smarbl (2026)                         | [Link](https://drive.google.com/drive/folders/1af6968eG6Dwn6q7l1dVbtDGZ37gMilYx?usp=sharing)    |
-| Razorpay (2026)                       | [Link](https://drive.google.com/drive/folders/1HdpLoIYXjBhNdx7uvB8iVc0EXPoD5NXj?usp=sharing)    |.
+| Razorpay (2026)                       | [Link](https://drive.google.com/drive/folders/1HdpLoIYXjBhNdx7uvB8iVc0EXPoD5NXj?usp=sharing)    |
 | KPMG (2026)                           | [Link](https://drive.google.com/drive/folders/1Taa-ZDs2jHHj8OQfUzpMSULoCVXvhuSo?usp=sharing)    |
 | OpenText (2026)                       | [Link](https://drive.google.com/drive/folders/1wfTt9Dq-5A6k-RMbzV4iW_bPBZEgVmen?usp=sharing)    |
 | VassarLabs (2026)                     | [Link](https://drive.google.com/drive/folders/1Uj4nItHSQx4w5VEMMwMo_sa9NibY75-3?usp=sharing)    |
@@ -45,3 +45,5 @@
 | Coforge (2026)                        | [Link](https://drive.google.com/drive/folders/18C6yl9NswI-oxcuuWaHCwzAy9VF9rOzg?usp=sharing)    |
 | AIOrdinate (2026)                     | [Link](https://drive.google.com/drive/folders/1YAXzgEPNY7TCiEi3uP7gZyHXQr_MVBL5?usp=sharing)    |
 | HSBC (2026)                           | [Link](https://drive.google.com/drive/folders/1Od--2y5fsms0H3R23oee_a2hzkRL2nZJ?usp=sharing)    |
+| Mindfire (2026)                       | [Link](https://drive.google.com/drive/folders/1kSUk5hrYco-EIjUBYF_95cwqgbW24P10?usp=sharing)    |
+| Antino (2026)                         | [Link](https://drive.google.com/drive/folders/1TEf14RZsdP8yRmgv5BryKBSrs3XyoNP8?usp=sharing)    |
