@@ -1,6 +1,6 @@
 # Infosys SP DSE Interview Experience
 
-**Article by:** Mayank Gupta  
+c 
 **Company Name:** Infosys  
 **Job Role:** Specialist Programmer – Digital Specialist Engineer (SP DSE)  
 
