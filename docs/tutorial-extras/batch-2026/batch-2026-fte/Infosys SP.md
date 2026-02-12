@@ -1,5 +1,5 @@
 # Infosys Specialist Programmer (SP) Interview Experience
-**Article by:** Sashikanta Pattanaik  
+**Article by:** Sai Chandan Jena
 **Company**: Infosys  
 **Role**: Specialist Programmer (SP)  
 **Mode**: On-campus (Placement Cell) with active invigilation by Infosys employees  
