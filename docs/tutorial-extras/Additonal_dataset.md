@@ -47,3 +47,8 @@
 | HSBC (2026)                           | [Link](https://drive.google.com/drive/folders/1Od--2y5fsms0H3R23oee_a2hzkRL2nZJ?usp=sharing)    |
 | Mindfire (2026)                       | [Link](https://drive.google.com/drive/folders/1kSUk5hrYco-EIjUBYF_95cwqgbW24P10?usp=sharing)    |
 | Antino (2026)                         | [Link](https://drive.google.com/drive/folders/1TEf14RZsdP8yRmgv5BryKBSrs3XyoNP8?usp=sharing)    |
+| TCS (2026)                            | [Link](https://drive.google.com/drive/folders/1uA7bDicGJ3QX_sos1ANYudMM6r6c6y9-?usp=sharing)    |
+| OpenText (2027)                       | [Link](https://drive.google.com/drive/folders/1fXKiXdtKl-wnGLC_maaokMTPLbr56QWa?usp=sharing)    |
+| Quantiphi (2027)                      | [Link](https://drive.google.com/drive/folders/1UtbGdYF13_dgs9-I3QX3M8xEAfokaxKV?usp=sharing)    |
+| Tiger Analytics (2027)                | [Link](https://drive.google.com/drive/folders/1pc70xU5zuHBB8489GtADquq2_v_PE4X5?usp=sharing)    |
+| WinWire (2027)                        | [Link](https://drive.google.com/drive/folders/1H-5Oeyio9vjo-3EZCmJrE3mjYCgm74XX?usp=sharing)    |
