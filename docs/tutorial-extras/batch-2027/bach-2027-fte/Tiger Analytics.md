@@ -1,288 +1,202 @@
 # Tiger Analytics Interview Experience
 
-**Article By**: Archit Mishra
+**Article By:** Archit Mishra
 
-**Branch**: CSE
+**Branch:** CSE
 
-**Company Name**: Tiger Analytics
+**Company Name:** Tiger Analytics
 
-**Job Description**: Analytics Role (On-Campus Placement Drive)
+**Job Description:** Analytics Role (On-Campus Placement Drive)
 
 ---
 
-## Online Assessment Round
+## Round 1 — Online Assessment
 
-**Mode**: Online at Placement Cell
+**Mode:** Online at Placement Cell
 
-**Platform**: iMocha
+**Platform:** iMocha
 
-**Duration**: 90 minutes
+**Duration:** 90 minutes
 
-**Content**:
+**Content:**
 
 The assessment consisted of multiple sections covering:
 
-* Quantitative Aptitude
-* SQL
-* Python
-* DSA
-* Mathematics
-* Reasoning
-* NumPy
-* Pandas
-* Technical and conceptual questions
+- Quantitative Aptitude
+- SQL
+- Python
+- DSA
+- Mathematics
+- Reasoning
+- NumPy
+- Pandas
+- Technical and conceptual questions
 
-**No. of MCQ Questions**: Not noted
+**No. of MCQ Questions:** Not noted
 
-**No. of DSA Questions**: 2
+**No. of DSA Questions:** 2 — Easy-level array simulation questions
 
-* Easy-level array simulation questions
-
-**No. of Aptitude Questions**: Included as part of the Quantitative Aptitude and Reasoning sections; exact count was not noted.
+**No. of Aptitude Questions:** Included as part of the Quantitative Aptitude and Reasoning sections; exact count was not noted.
 
 ---
 
-## Technical Round 1
+## Round 2 — Technical Interview 1
 
-**Duration**: Approximately 30 minutes
+**Duration:** Approximately 30 minutes
 
-The round started with questions about my **programming language preference** and my proficiency in Python.
+### Topics Discussed
 
-I mentioned that I use **C++ for competitive programming** and **Python mainly for development work**.
+- **Programming Language Preference**
 
-This was followed by a detailed discussion about my project, including:
+  The round started with questions about my programming language preference and proficiency in Python. I mentioned that I use **C++ for competitive programming** and **Python mainly for development work**.
 
-* Project features
-* Implementation details
-* Why I chose the project
-* Problem solved by the project
-* How data analytics helped in solving the problem
+- **Project Discussion**
 
-### 1) DSA Questions
+  A detailed discussion was held about my project, including:
 
-Two coding questions were asked, first in **C++** and then in **Python**.
+  - Project features
+  - Implementation details
+  - Why I chose the project
+  - Problem solved by the project
+  - How data analytics helped in solving the problem
 
-#### Question 1
+- **DSA Questions**
 
-**Remove duplicate elements from a list.**
+  Two coding questions were asked, first in C++ and then in Python:
 
-#### Question 2
+  1. **Remove duplicate elements from a list.**
+  2. Given a Python list containing mixed data types such as floats, strings, integers, etc., find and return the **sum of only the integer-type elements**. This was solved in Python.
 
-Given a Python list containing **mixed data types**, such as:
+- **OOPS & Python**
 
-* Float
-* String
-* Integer
-* Other data types
+  Questions were asked about **OOPS concepts in Python**.
 
-Find and return the **sum of only the integer-type elements**.
+- **Pandas, NumPy & DataFrame**
 
-This was solved in **Python**.
+  I was asked to create a **DataFrame for employee data** containing:
 
----
+  - Employee ID
+  - Department ID
+  - Working hours
 
-### 2) DBMS Questions
+  Multiple operations were then asked using **Pandas, NumPy, and Matplotlib**. I mentioned that I had used **Seaborn instead of Matplotlib**.
 
-**N/A**
+  I had to write the required functions and also calculate the results manually.
 
----
+- **Dynamic Programming**
 
-### 3) CS Fundamentals Questions
+  A separate **medium-level Dynamic Programming problem** was given, framed as a real-world problem the Tiger Analytics team had faced the previous week.
 
-Questions were asked about **OOPS concepts in Python**.
+  I solved the problem in Python using recursion with a **cache decorator (memoization)**. The interviewer mentioned that further optimization was not required.
 
----
+- **Internship Experience**
 
-### 4) Questions on Projects
+  Questions related to my internship were discussed as part of the overall project and experience discussion.
 
-I was asked to create a **DataFrame for employee data** containing:
+- **FastAPI**
 
-* Employee ID
-* Department ID
-* Working hours
-
-Multiple operations were then performed using:
-
-* **Pandas**
-* **NumPy**
-* **Matplotlib**
-
-I mentioned that I had used **Seaborn instead of Matplotlib**.
-
-I had to:
-
-* Write the required functions
-* Perform the requested operations
-* Calculate the results manually
+  Basic **FastAPI** questions were asked, including questions about routes and related concepts.
 
 ---
 
-### 5) Domain-Specific Questions
+## Round 3 — Technical Interview 2
 
-A separate **medium-level DSA problem based on Dynamic Programming** was given.
+**Duration:** Approximately 35 minutes
 
-The problem was framed as a **real-world problem that the Tiger Analytics team had faced the previous week**.
+### Topics Discussed
 
-I solved it in Python using:
+- **Mathematical Problem**
 
-* Recursion
-* Cache decorator
-* **Memoization**
+  I was asked to find the **number of integer solutions to an equation with two variables**.
 
-The interviewer mentioned that further optimization was **not required**.
+  I initially solved it using a hit-and-trial approach and was then asked to derive a **generalized solution** for this type of problem.
 
----
+  I was able to derive the generalized solution, and coding was not required after reaching the final solution.
 
-### 6) Questions About Internship Experience
+- **Probability**
 
-The internship experience was discussed as part of the overall **project and experience discussion**.
+  Questions were asked about **Probability**, starting from the basics and gradually progressing to:
 
----
+  - Conditional Probability
+  - Bayes' theorem
 
-### 7) Other Questions
+  I was explicitly asked **not to use formulas**, because I had used formulas in earlier questions. The interviewer wanted to evaluate my **thought process**.
 
-Basic questions were asked about **FastAPI**, including:
+  I solved the probability problem programmatically using a **confusion matrix**.
 
-* Routes
-* Basic FastAPI concepts
+- **Internship Project**
 
----
+  Questions were asked about my **internship project and individual contribution**.
 
-## Technical Round 2
+- **Role & Career Fit**
 
-**Duration**: Approximately 35 minutes
+  I was asked why, given that my resume was better suited to a **Software Engineering role**, I was applying for an Analytics role.
 
-### 1) DSA Questions
+  I answered by referring to **Tiger Analytics' expansion into the development side**, as highlighted in their placement presentation.
 
-I was asked to find the **number of integer solutions to an equation with two variables**.
+- **Hobbies**
 
-Initially, I solved it using a **hit-and-trial approach**.
+  I was asked about my hobbies, to which I mentioned:
 
-I was then asked to derive a **generalized solution** for this type of problem.
-
-I was able to derive the generalized solution.
-
-**Coding was not required** after reaching the final generalized solution.
+  - Keyboard
+  - Football
 
 ---
 
-### 2) DBMS Questions
+## Round 4 — HR Round
 
-**N/A**
+**Duration:** Approximately 20 minutes
 
----
+### Topics Discussed
 
-### 3) CS Fundamentals Questions
+- **Introduction & Experience**
 
-Questions were asked about **Probability**, starting from the basics and gradually progressing to:
+  - Asked about my **overall experience so far**
+  - Asked whether I currently had any **other job offers**
 
-* Conditional Probability
-* Bayes' Theorem
+- **Behavioural Questions**
 
-I was explicitly asked **not to use formulas**, since I had already used formulas in earlier questions.
+  - How would your **friends describe you in one word**?
+  - A scenario involving **conflict within a team** and how I would handle it
+  - A scenario involving a **client deadline with last-minute errors in the codebase** and how I would handle the situation
 
-The interviewer wanted to evaluate my **thought process and problem-solving approach**.
+- **Company & Relocation**
 
-I solved the problem programmatically using a **confusion matrix**.
+  - **Why Tiger Analytics?**
+  - Would I be comfortable **relocating to Chennai**?
 
----
+- **Family Background**
 
-### 4) Questions on Projects
-
-Questions were asked about my **internship project** and my individual contribution to it.
-
----
-
-### 5) Domain-Specific Questions
-
-I was asked:
-
-> Why are you applying for an Analytics role when your resume is better suited to a Software Engineering role?
-
-I answered by referring to **Tiger Analytics' expansion into the development side**, as highlighted in their placement presentation.
-
----
-
-### 6) Questions About Internship Experience
-
-**N/A**
-
----
-
-### 7) Other Questions
-
-Questions were asked about my hobbies.
-
-I mentioned:
-
-* **Keyboard**
-* **Football**
-
----
-
-## HR Round
-
-**Duration**: Approximately 20 minutes
-
-### 1) Introduction Questions
-
-* Tell me about your **overall experience so far**.
-* Do you currently have any **other job offers**?
-
----
-
-### 2) Common Behavioural Questions
-
-Questions included:
-
-* How would your **friends describe you in one word**?
-* A scenario involving **conflict within a team** and how you would handle it.
-* A scenario involving a **client deadline**, where last-minute errors were discovered in the codebase.
-* How would you handle such a situation?
-
----
-
-### 3) Questions Related to Company
-
-* **Why Tiger Analytics?**
-* Would you be comfortable **relocating to Chennai**?
-
----
-
-### 4) Technical / Aptitude Questions
-
-**None**
-
----
-
-### 5) Other Questions
-
-* Questions about **family background**
+  Questions were asked about my **family background**.
 
 ---
 
 ## Final Note
 
-At the end of the interview, the panel gave **positive feedback** on my performance across all rounds and appeared fairly confident about my selection.
+At the end of the interview, the panel gave **positive feedback** on my performance across all rounds and seemed fairly confident about my selection.
 
 ### Preparation Advice
 
-For this role, prepare particularly well in:
+Prepare well and be confident in:
 
-* **DSA**
-* **Python**
-* **Statistics**
-* **Probability**
-* **Mathematics**
-* **Pandas**
-* **NumPy**
-* **SQL**
-* Basic **data analytics concepts**
+- **DSA**
+- **Python**
+- **Statistics**
+- **Probability**
+- **Mathematics**
+- **Pandas**
+- **NumPy**
+- **SQL**
+- Basic data analytics concepts
 
-Also focus on being able to **explain your thought process**, rather than simply arriving at the final answer.
-
-**Most importantly, prepare well and be confident! 🚀**
+Also focus on explaining your **thought process clearly**, especially when solving mathematical, probability, and DSA problems.
 
 ---
-[Click to read interview experiences of other successful Tiger Analytics hires from the 2026 batch](https://drive.google.com/drive/folders/1pc70xU5zuHBB8489GtADquq2_v_PE4X5?usp=sharing)
 
+**ALL THE BEST! 🚀**
+
+---
+
+[Click to read interview experiences of other successful Tiger Analytics hires from the 2027 batch](https://drive.google.com/drive/folders/1pc70xU5zuHBB8489GtADquq2_v_PE4X5?usp=sharing)
+
+---

@@ -1,380 +1,263 @@
 # OpenText Interview Experience
+**Article By:** Pratyusa Pradhan  
 
-**Company Name**: OpenText
+**Company Name:** OpenText
 
-**Job Description**: AI/ML/DS Developer
-
----
-
-## Online Assessment Round
-
-**Mode**: Online
-
-**Duration**: 60 minutes
-
-**Breakdown**:
-
-* **15 minutes** for MCQs
-* **45 minutes** for DSA
-
-**Topics Covered**:
-
-* Machine Learning
-* Deep Learning
-* Computer Science Fundamentals
-* RAG
-* Generative AI
-* DSA
-
-**No. of MCQ Questions**: 15
-
-**No. of DSA Questions**: 2
-
-* 1 Easy
-* 1 Medium
-
-**No. of Aptitude Questions**: 0
+**Job Description:** AI/ML/DS Developer
 
 ---
 
-## Technical Round 1
+## Round 1 — Online Assessment
 
-The interview covered **DSA, DBMS, CS fundamentals, projects, domain-specific concepts, internship experience, and general technical questions**.
+**Mode:** Online
 
-### 1) DSA Questions
+**Duration:** 60 minutes
 
-The interviewer first asked about my **most comfortable programming language**.
+**Content:**
 
-I was then given an array-based problem involving **two sorted arrays**, where I had to:
-
-* Merge the two sorted arrays into a **single sorted array**
-* Explain the approach and logic
-* Discuss the **time and space complexity**
-* Write the code
-
----
-
-### 2) DBMS Questions
-
-Questions were asked around **SQL, JOINs, and window functions**.
-
-**Questions included:**
-
-* What are **window functions**?
-* What is the purpose of window functions?
-* Give examples of window functions.
-* Given two relational tables and certain conditions, formulate the appropriate SQL query using **JOINs**.
-* Explain the different types of **JOINs**.
-* How does the output change depending on which JOIN is used?
+- **15 minutes:** MCQs
+- **45 minutes:** DSA
+- **Topics:** Machine Learning, Deep Learning, Computer Science Fundamentals, RAG, Generative AI and DSA
+- **No. of MCQ Questions:** 15
+- **No. of DSA Questions:** 2 — 1 Easy and 1 Medium
+- **No. of Aptitude Questions:** 0
 
 ---
 
-### 3) CS Fundamentals Questions
+## Round 2 — Technical Interview 1
 
-Questions were asked from **OOPS, OS, Networks, and other CS fundamentals**.
+### Topics Discussed
 
-#### OOPS Questions
+- **Programming Language Preference**
 
-* Explain the four pillars of Object-Oriented Programming:
+  The interviewer first asked about the programming language I was most comfortable with.
 
-  * **Encapsulation**
-  * **Abstraction**
-  * **Inheritance**
-  * **Polymorphism**
-* Give real-world examples of different OOPS concepts.
-* Implement different OOPS concepts using code.
-* Where have you implemented **OOPS concepts in your projects**?
-* What is a **virtual function**?
-* How do virtual functions work?
-* What difference do virtual functions make in **C++**?
+- **DSA Question**
 
----
+  Given two sorted arrays, merge them into a **single sorted array**. I was asked to explain:
 
-### 4) Questions on Projects
+  - Approach and logic
+  - Time complexity
+  - Space complexity
+  - Code implementation
 
-#### Generative AI / RAG Project
+- **DBMS & SQL**
 
-I was asked to explain the **complete end-to-end architecture** of my Generative AI/RAG project.
+  Discussed:
 
-The discussion covered:
+  - Window functions and their purpose
+  - Examples of window functions
+  - SQL queries using **JOINs**
+  - Different types of JOINs
+  - How the result changes depending on the JOIN used
 
-* **FAISS**
-* **BM25**
-* **RRF-based Hybrid Retrieval**
-* **LLM-based generation**
-* **OCR fallback**
-* **PyMuPDF**
-* **Tesseract**
+- **OOPS & CS Fundamentals**
 
-I was also asked to write code demonstrating the implementation of some of these components.
+  Discussed:
 
-#### Full-Stack Project
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+  - Real-world examples of OOPS concepts
+  - Code implementations of OOPS concepts
+  - Where OOPS concepts were implemented in projects
+  - Virtual functions and how they work in C++
 
-Questions were asked about:
+- **Generative AI / RAG Project**
 
-* Complete application workflow
-* **MongoDB integration**
-* Database schema design
-* Database implementation
-* How MongoDB was integrated into the application
+  Discussed the complete end-to-end architecture, including:
 
-The interviewer also discussed project-specific implementation challenges, including:
+  - FAISS
+  - BM25
+  - RRF-based hybrid retrieval
+  - LLM-based generation
+  - OCR fallback
+  - PyMuPDF
+  - Tesseract
+  - Code implementation of some components
 
-* MongoDB-related issues
-* How those issues were solved
-* My individual contribution
-* Challenges faced while working in a team
+- **Full-Stack Project**
 
----
+  Discussed:
 
-### 5) Domain-Specific Questions
+  - Application workflow
+  - MongoDB integration
+  - Database schema design
+  - Database implementation
+  - Project-specific MongoDB issues and solutions
+  - Individual contribution
+  - Challenges faced while working in a team
 
-Questions were asked from **React.js, Next.js, RAG, and Generative AI**.
+- **React.js & Next.js**
 
-#### React.js & Next.js
+  Discussed:
 
-* What is React.js?
-* What is Next.js?
-* Core concepts and terminology
-* Key differences between React.js and Next.js
-* Explain Next.js architecture.
-* Explain rendering concepts in Next.js.
-* Where and why would you use different rendering approaches in projects?
+  - Core concepts and terminology
+  - Key differences between React.js and Next.js
+  - Next.js architecture
+  - Rendering concepts
+  - Practical usage of different rendering approaches
 
-#### RAG
+- **RAG Architecture**
 
-An in-depth discussion was conducted around **RAG architecture**.
+  Discussed the complete pipeline:
 
-The complete pipeline was discussed:
+  **Document Ingestion → Chunking → Embeddings → Vector Storage → Retrieval → Response Generation**
 
-**Document Ingestion → Chunking → Embeddings → Vector Storage → Retrieval → Response Generation**
+  Focused on the role, implementation and interaction of each component in the pipeline.
 
-Questions focused on:
+- **Internship Project**
 
-* Role of each component in the RAG pipeline
-* How each component is implemented
-* Why each component is required
-* How all components work together end-to-end
+  Discussed:
 
----
+  - Problem statement and individual contribution
+  - DOM-based content extraction
+  - Text, table, image and canvas extraction
+  - Screenshot capture
+  - File upload mechanisms in the Chrome Extension
+  - Deployment status
+  - Project architecture
+  - End-to-end workflow
 
-### 6) Questions About Internship Experience
+- **Other Questions**
 
-Questions were asked about my **internship project, problem statement, and individual contributions**.
-
-The discussion covered:
-
-* DOM-based content extraction
-* Extracting **text** from web pages
-* Extracting **tables**
-* Extracting **images**
-* Extracting **canvas elements**
-* Screenshot capture
-* File upload mechanisms implemented in the **Chrome Extension**
-* Deployment status
-* Project architecture
-* End-to-end workflow
+  - Rated proficiency in different programming languages and technical skills on a scale of 10
+  - Discussed Web Development and Generative AI courses
+  - Asked what was actually learned from the courses and how the knowledge was applied
 
 ---
 
-### 7) Other Questions
+## Round 3 — Technical Interview 2
 
-* Rate your proficiency in different **programming languages and technical skills on a scale of 10**.
-* Which courses have you completed in:
+### Topics Discussed
 
-  * Web Development
-  * Generative AI
-* What did you actually learn from those courses?
-* How did you apply the knowledge gained from those courses?
+- **DSA Question**
 
----
+  Implement a **Queue using a Doubly Linked List**. Discussed:
 
-## Technical Round 2
+  - Queue implementation
+  - `push` operation
+  - `pop` operation
+  - `top/front` operation
+  - Time complexity
+  - Space complexity
 
-The second technical round focused more on **DSA, software architecture, design decisions, scalability, security, projects, internship experience, and situational questions**.
+- **Project Architecture**
 
-### 1) DSA Questions
+  Asked to explain the complete software architecture and workflow of the project, including:
 
-I was asked to implement a **Queue using a Doubly Linked List**.
+  - Problem being solved
+  - Major components
+  - Overall architecture
+  - End-to-end workflow
 
-The discussion covered:
+- **Database & Security**
 
-* Queue implementation using a Doubly Linked List
-* `push` operation
-* `pop` operation
-* `top/front` operation
-* Time complexity
-* Space complexity
+  Discussed which database/security approach I would choose, how I would integrate it into the existing architecture, and why.
 
----
+- **Design & Scalability**
 
-### 2) DBMS Questions
+  Questions focused on:
 
-**N/A**
+  - Design decisions
+  - Scalability
+  - Security
+  - Practical implementation
+  - Software architecture
 
----
+- **Situational Questions**
 
-### 3) CS Fundamentals Questions
+  Scenario-based questions related to my projects and technical domain, including how I would approach a technical problem when placed in a particular role or situation.
 
-**N/A**
+- **Internship Experience**
 
----
+  Discussed:
 
-### 4) Questions on Projects
+  - How I secured the internship
+  - What I worked on
+  - My responsibilities
+  - Key technical learnings
 
-I was asked to explain the **complete software architecture and workflow** of my project.
+- **Logical Reasoning**
 
-The discussion included:
+  Short logical reasoning problems were asked to assess problem-solving ability and speed.
 
-* Problem the project solves
-* Major components involved
-* Overall software architecture
-* End-to-end workflow
+  One question involved a **racket and shuttle costing ₹110 in total**, where the racket costs ₹100 more than the shuttle. I was given approximately 15 seconds to solve it.
 
-I was also asked:
+  **Answer:**
 
-* Which **database/security approach** would you choose?
-* How would you integrate it into the existing architecture?
-* Why would you choose that particular approach?
+  - Shuttle = **₹5**
+  - Racket = **₹105**
 
----
+- **Technical Self-Rating**
 
-### 5) Domain-Specific Questions
+  - Rated myself on different technical skills, particularly AI/Generative AI
+  - Justified the ratings
 
-Questions focused on:
+- **Academics & Career**
 
-* Design decisions
-* Scalability
-* Security
-* Practical implementation
-* Software architecture
-
-There were also **situational and scenario-based questions** related to my projects and technical domain.
-
-For example, I was asked how I would approach a particular technical problem if I were placed in a specific **role or situation**.
+  - Discussed CGPA and academic performance
+  - Asked how I maintained consistency throughout my degree
+  - Discussed balancing academics, projects, internships and technical preparation
 
 ---
 
-### 6) Questions About Internship Experience
+## Round 4 — HR Round
 
-Questions were asked about:
+### Topics Discussed
 
-* How I secured the internship
-* What I worked on
-* My responsibilities
-* Key technical learnings from the internship
+- **Introduction & Background**
 
----
+  - Self-introduction
+  - Educational background and qualifications
+  - Family background
+  - General personal details
 
-### 7) Other Questions
+- **Behavioural Questions**
 
-The round started with **short logical reasoning problems** to assess problem-solving ability and speed.
+  Discussed:
 
-#### Logic-Based Problem — Racket & Shuttle
+  - How I would adapt and continuously upskill in the rapidly evolving technology landscape
+  - How I approach learning a new technology or skill
+  - How much time I would realistically need to become proficient in a new technology
 
-A racket and shuttle together cost **₹110**.
+- **Internship Expectations**
 
-The racket costs **₹100 more than the shuttle**.
+  Discussed expectations from the internship at OpenText and what I would like to learn or gain from the experience.
 
-I was given approximately **15 seconds** to solve the problem.
+- **Questions Asked by Me**
 
-**Answer**:
+  I asked about:
 
-* Shuttle = **₹5**
-* Racket = **₹105**
-* Total = **₹110**
-
-Other questions included:
-
-* Rate yourself on different technical skills, particularly in **AI/Generative AI**.
-* Justify the ratings you gave yourself.
-* What is your **CGPA**?
-* How have you maintained consistency throughout your degree?
-* How do you balance:
-
-  * Academics
-  * Projects
-  * Internships
-  * Technical preparation?
+  - Key skills and qualities OpenText looks for in candidates
+  - Training opportunities
+  - Learning opportunities
+  - Technical exposure provided during the internship
 
 ---
 
-# HR Round
+## Pro Tips
 
-### 1) Introduction & Background
-
-The round started with a brief **self-introduction**.
-
-Questions included:
-
-* Tell me about yourself.
-* Explain your educational background.
-* What are your qualifications?
-* Tell me about your family background.
-* What do your family members do?
-* General personal background questions.
-
----
-
-### 2) Behavioural Questions
-
-Questions focused on adaptability, continuous learning, and personal development.
-
-**Questions included:**
-
-* How would you adapt and continuously **upskill in the rapidly evolving technology landscape**?
-* How do you approach learning a **new technology or skill**?
-* How much time would you realistically need to become proficient in a new technology?
+- Prepare **DSA fundamentals** thoroughly, especially arrays, linked lists, queues and common interview patterns.
+- Have strong knowledge of **DBMS and SQL**, particularly JOINs and window functions.
+- Be comfortable with **OOPS concepts and C++ fundamentals**.
+- For AI/ML roles, prepare **RAG and Generative AI concepts in depth**.
+- Know your projects **end-to-end** — architecture, implementation, challenges, trade-offs and your individual contribution.
+- Be prepared to **write code for components of your own projects**.
+- For RAG projects, understand every component rather than just knowing the terminology.
+- Prepare practical questions around **scalability, security, databases and system architecture**.
+- Be ready to justify your **self-rated technical skills**.
+- Prepare your internship experience thoroughly, including your contributions and technical learnings.
+- Don't ignore **logical reasoning questions**, as some questions may have very short time limits.
+- During project discussions, clearly explain **what YOU implemented**, rather than only describing what the team built.
+- For scenario-based questions, explain your reasoning and trade-offs clearly.
+- Most importantly, **know everything mentioned on your resume**.
 
 ---
 
-### 3) Questions Related to Company Profile
+**ALL THE BEST! 🚀**
 
-Questions were asked about my expectations from the internship at **OpenText**.
-
-* What are your expectations from the internship?
-* What would you like to learn or gain from the experience?
+[Click to read interview experiences of other successful OpenText hires from the 2027 batch](https://drive.google.com/drive/folders/1fXKiXdtKl-wnGLC_maaokMTPLbr56QWa?usp=sharing)
 
 ---
-
-### 4) Technical / Aptitude Questions
-
-**N/A**
-
----
-
-### 5) Questions I Asked the Interviewer
-
-I asked questions about:
-
-* Key skills and qualities **OpenText looks for in candidates**
-* Training opportunities
-* Learning opportunities
-* Technical exposure provided during the internship
-
----
-
-# Final Note
-
-* Prepare **DSA fundamentals** thoroughly, especially arrays, linked lists, queues, and common interview patterns.
-* Have strong knowledge of **DBMS and SQL**, particularly JOINs and window functions.
-* Be very comfortable with **OOPS concepts and C++ fundamentals**.
-* For AI/ML roles, prepare **RAG and Generative AI concepts in depth**.
-* Know your projects **end-to-end** — architecture, implementation, challenges, trade-offs, and your individual contribution.
-* Be prepared to **write code for components of your own projects**.
-* For RAG projects, understand every component rather than just knowing the terminology.
-* Prepare practical questions around **scalability, security, databases, and system architecture**.
-* Be ready to justify your **self-rated technical skills**.
-* Prepare your internship experience thoroughly, including your contributions and technical learnings.
-* Don't ignore **logical reasoning questions**; some questions may have very short time limits.
-* During project discussions, clearly explain **what YOU implemented**, rather than only describing what the team built.
-* For scenario-based questions, explain your reasoning and trade-offs clearly.
-* Most importantly, **know everything mentioned on your resume**.
-
----
-
-**All the best! 🚀**
-
----
-[Click to read interview experiences of other successful OpenText hires from the 2026 batch](https://drive.google.com/drive/folders/1fXKiXdtKl-wnGLC_maaokMTPLbr56QWa?usp=sharing)
-
