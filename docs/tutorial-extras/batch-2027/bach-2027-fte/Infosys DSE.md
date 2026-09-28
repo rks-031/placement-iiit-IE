@@ -4,7 +4,7 @@
 
 **Company Name:** Infosys
 
-**Job Description:** Specialist Programmer (SP) / Digital Specialist Engineer (DSE)
+**Job Description:** Digital Specialist Engineer (DSE)
 
 ---
 
