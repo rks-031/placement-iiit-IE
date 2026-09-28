@@ -1,7 +1,8 @@
-# Hyland Interview Experience
-**Article By:** Akchat Verma
-**Company Name:** Hyland
-**Batch:** B.Tech 2026
+# Hyland Interview Experience  
+
+**Article by**: Akchat Verma  
+**Company Name**: Hyland  
+
 ---
 
 ## Round 1 — Online Assessment

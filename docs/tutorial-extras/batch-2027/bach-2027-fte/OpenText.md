@@ -1,263 +1,167 @@
-# OpenText Interview Experience
-**Article By:** Pratyusa Pradhan  
+# Infosys DSE Interview Experience
 
-**Company Name:** OpenText
+**Article By:** Nabin Agrawal
 
-**Job Description:** AI/ML/DS Developer
+**Company Name:** Infosys
+
+**Job Description:** Digital Specialist Engineer (DSE)
 
 ---
 
 ## Round 1 — Online Assessment
 
-**Mode:** Online
+**Mode:** Online — Wingspan App
 
-**Duration:** 60 minutes
+**Location:** Silicon University
+
+**Duration:** 3 hours
 
 **Content:**
 
-- **15 minutes:** MCQs
-- **45 minutes:** DSA
-- **Topics:** Machine Learning, Deep Learning, Computer Science Fundamentals, RAG, Generative AI and DSA
-- **No. of MCQ Questions:** 15
-- **No. of DSA Questions:** 2 — 1 Easy and 1 Medium
-- **No. of Aptitude Questions:** 0
+- **MCQs:** 0
+- **DSA Questions:** 4 — 1 Easy, 1 Medium, 1 Hard and 1 Complex
+- **Aptitude Questions:** 0
+- **Selection Criteria:** Candidates had to solve any 3 out of 4 questions.
+
+**My Experience:** 2 questions were solved completely and the 3rd question was solved partially.
+
+### Questions
+
+- **Easy — Digit Sum with Local Maxima**
+
+  Given a digit array `nums`, the task was to find peak elements based on specific conditions and increase the counter whenever the condition was satisfied.
+
+  The digit sum of `nums[i]` had to be greater than the digit sums of its neighbors. If the digit sums were equal, the original values were compared and counted accordingly for both neighbors.
+
+- **Medium — Greedy**
+
+  The exact question was not remembered, but it was based on the **Greedy approach**.
+
+- **Hard — Video Clips**
+
+  Given a set of video clips that needed to be merged, the task was to return the **maximum possible difference between your pick and your friend's pick**.
+
+- **Complex — Pizza With 3n Slices**
+
+  Problem based on **LeetCode 1388 — Pizza With 3n Slices**.
 
 ---
 
-## Round 2 — Technical Interview 1
+## Round 2 — Online Coding Assessment
 
-### Topics Discussed
+**Mode:** Online — Wingspan App
 
-- **Programming Language Preference**
+**Location:** Infosys Campus, Bhubaneswar
 
-  The interviewer first asked about the programming language I was most comfortable with.
+**Duration:** 45 minutes
 
-- **DSA Question**
+**Content:**
 
-  Given two sorted arrays, merge them into a **single sorted array**. I was asked to explain:
+- **MCQs:** 0
+- **DSA Questions:** 2 — 1 Medium and 1 Hard
+- **Aptitude Questions:** 0
+- **Primary Topic:** Bit Manipulation
 
-  - Approach and logic
-  - Time complexity
-  - Space complexity
-  - Code implementation
-
-- **DBMS & SQL**
-
-  Discussed:
-
-  - Window functions and their purpose
-  - Examples of window functions
-  - SQL queries using **JOINs**
-  - Different types of JOINs
-  - How the result changes depending on the JOIN used
-
-- **OOPS & CS Fundamentals**
-
-  Discussed:
-
-  - Encapsulation
-  - Abstraction
-  - Inheritance
-  - Polymorphism
-  - Real-world examples of OOPS concepts
-  - Code implementations of OOPS concepts
-  - Where OOPS concepts were implemented in projects
-  - Virtual functions and how they work in C++
-
-- **Generative AI / RAG Project**
-
-  Discussed the complete end-to-end architecture, including:
-
-  - FAISS
-  - BM25
-  - RRF-based hybrid retrieval
-  - LLM-based generation
-  - OCR fallback
-  - PyMuPDF
-  - Tesseract
-  - Code implementation of some components
-
-- **Full-Stack Project**
-
-  Discussed:
-
-  - Application workflow
-  - MongoDB integration
-  - Database schema design
-  - Database implementation
-  - Project-specific MongoDB issues and solutions
-  - Individual contribution
-  - Challenges faced while working in a team
-
-- **React.js & Next.js**
-
-  Discussed:
-
-  - Core concepts and terminology
-  - Key differences between React.js and Next.js
-  - Next.js architecture
-  - Rendering concepts
-  - Practical usage of different rendering approaches
-
-- **RAG Architecture**
-
-  Discussed the complete pipeline:
-
-  **Document Ingestion → Chunking → Embeddings → Vector Storage → Retrieval → Response Generation**
-
-  Focused on the role, implementation and interaction of each component in the pipeline.
-
-- **Internship Project**
-
-  Discussed:
-
-  - Problem statement and individual contribution
-  - DOM-based content extraction
-  - Text, table, image and canvas extraction
-  - Screenshot capture
-  - File upload mechanisms in the Chrome Extension
-  - Deployment status
-  - Project architecture
-  - End-to-end workflow
-
-- **Other Questions**
-
-  - Rated proficiency in different programming languages and technical skills on a scale of 10
-  - Discussed Web Development and Generative AI courses
-  - Asked what was actually learned from the courses and how the knowledge was applied
+**My Experience:** One question passed approximately 50% of the test cases, followed by a **Time Limit Exceeded (TLE)**.
 
 ---
 
-## Round 3 — Technical Interview 2
+## Round 3 — Technical Interview
 
-### Topics Discussed
+**Mode:** Offline — In-person
 
-- **DSA Question**
+**Location:** Infosys Campus, Bhubaneswar
 
-  Implement a **Queue using a Doubly Linked List**. Discussed:
+**Duration:** 20 minutes
 
-  - Queue implementation
-  - `push` operation
-  - `pop` operation
-  - `top/front` operation
-  - Time complexity
-  - Space complexity
+### DSA & Algorithms
 
-- **Project Architecture**
+- **Maximum Subarray Sum**
 
-  Asked to explain the complete software architecture and workflow of the project, including:
+  The problem was coded during the interview.
 
-  - Problem being solved
-  - Major components
-  - Overall architecture
-  - End-to-end workflow
+- **Linked List Cycle II**
 
-- **Database & Security**
+  **LeetCode 142 — Linked List Cycle II**
 
-  Discussed which database/security approach I would choose, how I would integrate it into the existing architecture, and why.
+  The interviewer asked only for the **approach and underlying logic**.
 
-- **Design & Scalability**
+- **Find the Unique Element in an Array**
 
-  Questions focused on:
+  The interviewer asked only for the **optimal approach**.
 
-  - Design decisions
-  - Scalability
-  - Security
-  - Practical implementation
-  - Software architecture
+- **GCD and LCM**
 
-- **Situational Questions**
+  GCD and LCM were coded on paper, including their relationship.
 
-  Scenario-based questions related to my projects and technical domain, including how I would approach a technical problem when placed in a particular role or situation.
+- **Linked List Complexity**
 
-- **Internship Experience**
+  Asked about the time complexity of extracting the **last node from a Linked List**.
 
-  Discussed:
+- **Algorithmic Complexity**
 
-  - How I secured the internship
-  - What I worked on
-  - My responsibilities
-  - Key technical learnings
+  Discussed the time complexity of:
 
-- **Logical Reasoning**
+  - Quick Sort
+  - Binary Search
+  - Merge Sort
 
-  Short logical reasoning problems were asked to assess problem-solving ability and speed.
+### CS Fundamentals
 
-  One question involved a **racket and shuttle costing ₹110 in total**, where the racket costs ₹100 more than the shuttle. I was given approximately 15 seconds to solve it.
+#### OOPS
 
-  **Answer:**
+- No questions were asked from OOPS.
 
-  - Shuttle = **₹5**
-  - Racket = **₹105**
+#### DBMS
 
-- **Technical Self-Rating**
+Discussed:
 
-  - Rated myself on different technical skills, particularly AI/Generative AI
-  - Justified the ratings
+- `DELETE` vs. `TRUNCATE`
+- ACID Properties
 
-- **Academics & Career**
+#### Operating Systems
 
-  - Discussed CGPA and academic performance
-  - Asked how I maintained consistency throughout my degree
-  - Discussed balancing academics, projects, internships and technical preparation
+Discussed:
+
+- Process vs. Thread
+- Semaphore
+- Deadlock
+
+#### Computer Networks
+
+- No questions were asked from Computer Networks.
+
+### Project Discussion
+
+- No project-specific questions were asked during the technical interview.
 
 ---
 
-## Round 4 — HR Round
+## Key Topics to Prepare
 
-### Topics Discussed
-
-- **Introduction & Background**
-
-  - Self-introduction
-  - Educational background and qualifications
-  - Family background
-  - General personal details
-
-- **Behavioural Questions**
-
-  Discussed:
-
-  - How I would adapt and continuously upskill in the rapidly evolving technology landscape
-  - How I approach learning a new technology or skill
-  - How much time I would realistically need to become proficient in a new technology
-
-- **Internship Expectations**
-
-  Discussed expectations from the internship at OpenText and what I would like to learn or gain from the experience.
-
-- **Questions Asked by Me**
-
-  I asked about:
-
-  - Key skills and qualities OpenText looks for in candidates
-  - Training opportunities
-  - Learning opportunities
-  - Technical exposure provided during the internship
+- **DSA:** Arrays, Linked Lists, Greedy, Dynamic Programming and Bit Manipulation
+- **Algorithmic Complexity:** Time and space complexity of common algorithms
+- **DBMS:** ACID properties, `DELETE` vs. `TRUNCATE` and other fundamentals
+- **Operating Systems:** Processes, Threads, Semaphores and Deadlocks
+- **Mathematical Algorithms:** GCD and LCM
+- **Problem-Solving:** Be prepared to explain the approach and intuition even when complete code is not required.
 
 ---
 
 ## Pro Tips
 
-- Prepare **DSA fundamentals** thoroughly, especially arrays, linked lists, queues and common interview patterns.
-- Have strong knowledge of **DBMS and SQL**, particularly JOINs and window functions.
-- Be comfortable with **OOPS concepts and C++ fundamentals**.
-- For AI/ML roles, prepare **RAG and Generative AI concepts in depth**.
-- Know your projects **end-to-end** — architecture, implementation, challenges, trade-offs and your individual contribution.
-- Be prepared to **write code for components of your own projects**.
-- For RAG projects, understand every component rather than just knowing the terminology.
-- Prepare practical questions around **scalability, security, databases and system architecture**.
-- Be ready to justify your **self-rated technical skills**.
-- Prepare your internship experience thoroughly, including your contributions and technical learnings.
-- Don't ignore **logical reasoning questions**, as some questions may have very short time limits.
-- During project discussions, clearly explain **what YOU implemented**, rather than only describing what the team built.
-- For scenario-based questions, explain your reasoning and trade-offs clearly.
-- Most importantly, **know everything mentioned on your resume**.
+- Prepare **DSA fundamentals** thoroughly, especially Arrays, Linked Lists, Greedy, Dynamic Programming and Bit Manipulation.
+- Practice explaining the **approach and intuition** behind a solution, as interviewers may ask for the logic without requiring complete code.
+- Revise the **time and space complexity** of commonly used algorithms such as Quick Sort, Merge Sort, Binary Search, BFS and DFS.
+- Prepare important **DBMS concepts**, particularly ACID properties and SQL commands such as `DELETE` and `TRUNCATE`.
+- Revise fundamental **Operating Systems concepts**, including Process vs. Thread, Semaphores and Deadlocks.
+- Practice coding basic mathematical algorithms such as **GCD and LCM** on paper.
+- Be comfortable with **Bit Manipulation** problems, as both questions in the second coding assessment were based on this topic.
+- Prepare commonly asked **LeetCode problems** involving Arrays and Linked Lists.
+- Most importantly, focus on **problem-solving approach, optimization and complexity analysis**.
 
 ---
 
 **ALL THE BEST! 🚀**
-
-[Click to read interview experiences of other successful OpenText hires from the 2027 batch](https://drive.google.com/drive/folders/1fXKiXdtKl-wnGLC_maaokMTPLbr56QWa?usp=sharing)
 
 ---
