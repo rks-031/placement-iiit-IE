@@ -1,6 +1,5 @@
 # Infosys SP DSE Interview Experience
 
-c 
 **Company Name:** Infosys  
 **Job Role:** Specialist Programmer – Digital Specialist Engineer (SP DSE)  
 
