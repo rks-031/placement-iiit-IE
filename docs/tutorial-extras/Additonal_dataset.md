@@ -54,3 +54,4 @@
 | Tiger Analytics (2027)                | [Link](https://drive.google.com/drive/folders/1pc70xU5zuHBB8489GtADquq2_v_PE4X5?usp=sharing)    |
 | WinWire (2027)                        | [Link](https://drive.google.com/drive/folders/1H-5Oeyio9vjo-3EZCmJrE3mjYCgm74XX?usp=sharing)    |
 | Infosys (2027)                        | [Link](https://drive.google.com/drive/folders/1cRf5qfe0e01lwlcH5iEbAzNLMy73GzH9?usp=sharing)    |
+| Sigmoid (2027)                        | [Link](https://drive.google.com/drive/folders/1tC8qXSexmCCJBZpyeMvxZz0xE7VtR3Pe?usp=sharing)    |
