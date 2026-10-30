@@ -1,7 +1,7 @@
 # Infosys SP L1 Interview Experience
-
+**Article By:** Chandra Prasad
 **Company Name:** Infosys  
-**Article By:** Chandra Prasad   
+   
 
 
 **Job Description:** Specialist Programmer (SP - L1)
